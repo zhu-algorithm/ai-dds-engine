@@ -1,0 +1,62 @@
+{
+ "微针阵列": {
+  "total": 132,
+  "early_pct": 0.175,
+  "late_pct": 0.475,
+  "growth_x": 2.72
+ },
+ "脂质纳米粒/mRNA": {
+  "total": 247,
+  "early_pct": 0.334,
+  "late_pct": 0.886,
+  "growth_x": 2.65
+ },
+ "口服多肽/促渗": {
+  "total": 49,
+  "early_pct": 0.144,
+  "late_pct": 0.142,
+  "growth_x": 0.99
+ },
+ "原位成胶长效": {
+  "total": 104,
+  "early_pct": 0.175,
+  "late_pct": 0.301,
+  "growth_x": 1.72
+ },
+ "3D打印剂型": {
+  "total": 43,
+  "early_pct": 0.03,
+  "late_pct": 0.174,
+  "growth_x": 5.73
+ },
+ "超长效(≥3月)": {
+  "total": 6,
+  "early_pct": 0.015,
+  "late_pct": 0.021,
+  "growth_x": 1.39
+ },
+ "ADC/靶向偶联": {
+  "total": 57,
+  "early_pct": 0.144,
+  "late_pct": 0.179,
+  "growth_x": 1.24
+ },
+ "外泌体载体": {
+  "total": 75,
+  "early_pct": 0.008,
+  "late_pct": 0.311,
+  "growth_x": 40.96
+ },
+ "吸入/肺部递送": {
+  "total": 885,
+  "early_pct": 2.401,
+  "late_pct": 2.237,
+  "growth_x": 0.93
+ },
+ "经典脂质体": {
+  "total": 2739,
+  "early_pct": 8.131,
+  "late_pct": 5.777,
+  "growth_x": 0.71
+ }
+}
