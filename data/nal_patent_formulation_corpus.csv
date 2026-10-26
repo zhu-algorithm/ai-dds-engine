@@ -1,0 +1,786 @@
+patent,page,example,dosage_form,api,process_parameters,formulation_id,component,role,amount_raw,amount_num,unit,is_range
+US9114073B2,8,Triptan oral dosage form (general range),oral film/tablet/liquid,Triptan,,F0000,Triptan (base),API,1 mg to 100 mg,1.0,mg,False
+US9114073B2,8,Almotriptan oral dosage form,oral film/tablet/liquid,Almotriptan,,F0001,Almotriptan (base),API,2.5 to 15 mg,8.75,mg,True
+US9114073B2,8,Rizatriptan oral dosage form,oral film/tablet/liquid,Rizatriptan,,F0002,Rizatriptan (base),API,2.5 to 15 mg,8.75,mg,True
+US9114073B2,8,Naratriptan oral dosage form,oral film/tablet/liquid,Naratriptan,,F0003,Naratriptan (base),API,1 to 5 mg,3.0,mg,True
+US9114073B2,8,Zolmitriptan oral dosage form,oral film/tablet/liquid,Zolmitriptan,,F0004,Zolmitriptan (base),API,1 to 7.5 mg,4.25,mg,True
+US9114073B2,8,Sumatriptan oral dosage form,oral film/tablet/liquid,Sumatriptan,,F0005,Sumatriptan (base),API,3 to 100 mg,51.5,mg,True
+US9114073B2,8,Sumatriptan oral dosage form (preferred range),oral film/tablet/liquid,Sumatriptan,,F0006,Sumatriptan (base),API,3 to 50 mg,26.5,mg,True
+US9114073B2,8,Sumatriptan oral dosage form (most preferred range),oral film/tablet/liquid,Sumatriptan,,F0007,Sumatriptan (base),API,3 to 25 mg,14.0,mg,True
+US9114073B2,8,Frovatriptan oral dosage form,oral film/tablet/liquid,Frovatriptan,,F0008,Frovatriptan (base),API,1 to 5 mg,3.0,mg,True
+US9114073B2,8,Eletriptan oral dosage form,oral film/tablet/liquid,Eletriptan,,F0009,Eletriptan (base),API,10 to 30 mg,20.0,mg,True
+US9114073B2,8,Rizatriptan water soluble film (general range),water soluble film,Rizatriptan,,F0010,Rizatriptan (base),API,1 to 25 mg,13.0,mg,True
+US9114073B2,8,Rizatriptan water soluble film (general range),water soluble film,Rizatriptan,,F0010,Polyvinyl pyrrolidone,polymer,5% to 95% by weight,5.0,%,False
+US9114073B2,8,Rizatriptan water soluble film (general range),water soluble film,Rizatriptan,,F0010,Polymeric alginate (sodium alginate preferred),polymer,5% to 95% by weight,5.0,%,False
+US9114073B2,8,Rizatriptan water soluble film (preferred range),water soluble film,Rizatriptan,,F0011,Rizatriptan (base),API,2 to 20 mg,11.0,mg,True
+US9114073B2,8,Rizatriptan water soluble film (preferred range),water soluble film,Rizatriptan,,F0011,Polyvinyl pyrrolidone,polymer,5% to 95% by weight,5.0,%,False
+US9114073B2,8,Rizatriptan water soluble film (preferred range),water soluble film,Rizatriptan,,F0011,Polymeric alginate (sodium alginate preferred),polymer,5% to 95% by weight,5.0,%,False
+US9114073B2,8,Rizatriptan water soluble film (most preferred range),water soluble film,Rizatriptan,,F0012,Rizatriptan (base),API,2.5 to 15 mg,8.75,mg,True
+US9114073B2,8,Rizatriptan water soluble film (most preferred range),water soluble film,Rizatriptan,,F0012,Polyvinyl pyrrolidone,polymer,5% to 95% by weight,5.0,%,False
+US9114073B2,8,Rizatriptan water soluble film (most preferred range),water soluble film,Rizatriptan,,F0012,Polymeric alginate (sodium alginate preferred),polymer,5% to 95% by weight,5.0,%,False
+US9114073B2,8,Triptan water soluble film with pullulan,water soluble film,Triptan,Film oral solid dosage unit has surface area from about 0.25 cm² to about 20 cm² and weight of about 1 mg to about 200 mg,F0013,Pullulan,polymer,not specified,,,False
+US9114073B2,9,Table 1 - Sample A,film,,,F0014,polyvinyl pyrrolidone (PVP),polymer,ratio 5:1 (to alginate),5.0,,False
+US9114073B2,9,Table 1 - Sample A,film,,,F0014,polymeric alginate,polymer,ratio 5:1 (to PVP),5.0,,False
+US9114073B2,9,Table 1 - Sample B,film,,,F0015,polyvinyl pyrrolidone (PVP),polymer,ratio 4:1 (to alginate),4.0,,False
+US9114073B2,9,Table 1 - Sample B,film,,,F0015,polymeric alginate,polymer,ratio 4:1 (to PVP),4.0,,False
+US9114073B2,9,Table 1 - Sample C,film,,,F0016,polyvinyl pyrrolidone (PVP),polymer,ratio 3:1 (to alginate),3.0,,False
+US9114073B2,9,Table 1 - Sample C,film,,,F0016,polymeric alginate,polymer,ratio 3:1 (to PVP),3.0,,False
+US9114073B2,9,Table 1 - Sample D,film,,,F0017,polyvinyl pyrrolidone (PVP),polymer,ratio 1:2 (to alginate),1.0,,False
+US9114073B2,9,Table 1 - Sample D,film,,,F0017,polymeric alginate,polymer,ratio 1:2 (to PVP),1.0,,False
+US9114073B2,9,Table 1 - Sample E,film,,,F0018,polyvinyl pyrrolidone (PVP),polymer,ratio 1:3 (to alginate),1.0,,False
+US9114073B2,9,Table 1 - Sample E,film,,,F0018,polymeric alginate,polymer,ratio 1:3 (to PVP),1.0,,False
+US9114073B2,9,Example 7,film,,,F0019,polyvinyl pyrrolidone K60,polymer,0.1620 grams,0.162,,False
+US9114073B2,9,Example 7,film,,,F0019,polymeric alginate,polymer,ratio 2:1 (to PVP),2.0,,False
+US9114073B2,9,Example 8,film,,,F0020,polyvinyl pyrrolidone K30,polymer,0.1620 grams,0.162,,False
+US9114073B2,9,Example 8,film,,,F0020,polymeric alginate,polymer,ratio 2:1 (to PVP),2.0,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,isopropanol,solubilizer,20 grams,20.0,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,glycerol,plasticizer,64 grams,64.0,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,Sucrose ester (HLB 11),permeation enhancer,6.4 grams,6.4,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,Sucrose ester (HLB 5),permeation enhancer,2.4 grams,2.4,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,Tween 80,permeation enhancer,4 grams,4.0,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,Span 80,permeation enhancer,0.8 grams,0.8,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,ginger oil,flavor,0.2 gram,0.2,,False
+US9114073B2,12,Example 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0021,peppermint oil,flavor,0.08 gram,0.08,,False
+US9114073B2,12,Example 2,orally dissolving film,rizatriptan,"Mixing with minimal air entrapment. Degassed in vacuum chamber until air bubble free. Film cast on coating/drying machine heated to 40-80°C or higher. Wet film thickness (gap setting): 1 mm for buccal application, 2 mm for sublingual application.",F0022,"Polyvinylpyrrolidone (PVP K90, M.W. = 1.0-1.5×10⁶)",polymer,0.90 grams,0.9,,False
+US9114073B2,12,Example 2,orally dissolving film,rizatriptan,"Mixing with minimal air entrapment. Degassed in vacuum chamber until air bubble free. Film cast on coating/drying machine heated to 40-80°C or higher. Wet film thickness (gap setting): 1 mm for buccal application, 2 mm for sublingual application.",F0022,"Sodium alginate (Kelvis, viscosity = 760 cps @ 1% solution)",polymer,3.0 grams,3.0,,False
+US9114073B2,12,Example 2,orally dissolving film,rizatriptan,"Mixing with minimal air entrapment. Degassed in vacuum chamber until air bubble free. Film cast on coating/drying machine heated to 40-80°C or higher. Wet film thickness (gap setting): 1 mm for buccal application, 2 mm for sublingual application.",F0022,base solution,solvent/plasticizer/permeation enhancer mix,0.245 grams,0.245,,False
+US9114073B2,12,Example 2,orally dissolving film,rizatriptan,"Mixing with minimal air entrapment. Degassed in vacuum chamber until air bubble free. Film cast on coating/drying machine heated to 40-80°C or higher. Wet film thickness (gap setting): 1 mm for buccal application, 2 mm for sublingual application.",F0022,rizatriptan benzoate,API,0.0513 gram,0.0513,,False
+US9114073B2,12,Example 2,orally dissolving film,rizatriptan,"Mixing with minimal air entrapment. Degassed in vacuum chamber until air bubble free. Film cast on coating/drying machine heated to 40-80°C or higher. Wet film thickness (gap setting): 1 mm for buccal application, 2 mm for sublingual application.",F0022,aspartame,taste-masking agent,0.025 gram,0.025,,False
+US9114073B2,16,"Table 7, Ex 23 (MG100)",Liquid dosage formulation,Rizatriptan benzoate,,F0023,Rizatriptan benzoate,API,4.0%,4.0,%,False
+US9114073B2,16,"Table 7, Ex 23 (MG100)",Liquid dosage formulation,Rizatriptan benzoate,,F0023,S-1170 (HLB 11),absorption enhancer,0.10%,0.1,%,False
+US9114073B2,16,"Table 7, Ex 23 (MG100)",Liquid dosage formulation,Rizatriptan benzoate,,F0023,Ethanol,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 23 (MG100)",Liquid dosage formulation,Rizatriptan benzoate,,F0023,Glycerin,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 23 (MG100)",Liquid dosage formulation,Rizatriptan benzoate,,F0023,Aspartame,sweetener,0.10%,0.1,%,False
+US9114073B2,16,"Table 7, Ex 24 (MG050)",Liquid dosage formulation,Rizatriptan benzoate,,F0024,Rizatriptan benzoate,API,2.0%,2.0,%,False
+US9114073B2,16,"Table 7, Ex 24 (MG050)",Liquid dosage formulation,Rizatriptan benzoate,,F0024,S-970 (HLB 9),absorption enhancer,0.50%,0.5,%,False
+US9114073B2,16,"Table 7, Ex 24 (MG050)",Liquid dosage formulation,Rizatriptan benzoate,,F0024,Ethanol,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 24 (MG050)",Liquid dosage formulation,Rizatriptan benzoate,,F0024,Glycerin,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 24 (MG050)",Liquid dosage formulation,Rizatriptan benzoate,,F0024,Aspartame,sweetener,0.10%,0.1,%,False
+US9114073B2,16,"Table 7, Ex 25 (MG033)",Liquid dosage formulation,Rizatriptan benzoate,,F0025,Rizatriptan benzoate,API,1.333%,1.333,%,False
+US9114073B2,16,"Table 7, Ex 25 (MG033)",Liquid dosage formulation,Rizatriptan benzoate,,F0025,S-570 (HLB 5),absorption enhancer,0.30%,0.3,%,False
+US9114073B2,16,"Table 7, Ex 25 (MG033)",Liquid dosage formulation,Rizatriptan benzoate,,F0025,Ethanol,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 25 (MG033)",Liquid dosage formulation,Rizatriptan benzoate,,F0025,Glycerin,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 25 (MG033)",Liquid dosage formulation,Rizatriptan benzoate,,F0025,Aspartame,sweetener,0.10%,0.1,%,False
+US9114073B2,16,"Table 7, Ex 26 (MG033A)",Liquid dosage formulation,Rizatriptan benzoate,,F0026,Rizatriptan benzoate,API,1.333%,1.333,%,False
+US9114073B2,16,"Table 7, Ex 26 (MG033A)",Liquid dosage formulation,Rizatriptan benzoate,,F0026,Fatty acid esters of sucrose (HLB 6.71),absorption enhancer,0.7%,0.7,%,False
+US9114073B2,16,"Table 7, Ex 26 (MG033A)",Liquid dosage formulation,Rizatriptan benzoate,,F0026,Ethanol,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 26 (MG033A)",Liquid dosage formulation,Rizatriptan benzoate,,F0026,Glycerin,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 26 (MG033A)",Liquid dosage formulation,Rizatriptan benzoate,,F0026,Aspartame,sweetener,0.10%,0.1,%,False
+US9114073B2,16,"Table 7, Ex 27 (MG033B)",Liquid dosage formulation,Rizatriptan benzoate,,F0027,Rizatriptan benzoate,API,1.333%,1.333,%,False
+US9114073B2,16,"Table 7, Ex 27 (MG033B)",Liquid dosage formulation,Rizatriptan benzoate,,F0027,Fatty acid esters of sucrose (HLB 10.71),absorption enhancer,0.7%,0.7,%,False
+US9114073B2,16,"Table 7, Ex 27 (MG033B)",Liquid dosage formulation,Rizatriptan benzoate,,F0027,Ethanol,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 27 (MG033B)",Liquid dosage formulation,Rizatriptan benzoate,,F0027,Glycerin,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 27 (MG033B)",Liquid dosage formulation,Rizatriptan benzoate,,F0027,Aspartame,sweetener,0.10%,0.1,%,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Rizatriptan benzoate,API,1.333%,1.333,%,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Fatty acid esters of sucrose (HLB 9.36),absorption enhancer,0.7%,0.7,%,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Span 80 (HLB 4.3),surfactant,0.25%,0.25,%,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Tween 80 (HLB 15),surfactant,0.10%,0.1,%,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Ginger oil,permeation enhancer,not specified,,,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Peppermint oil,flavoring,not specified,,,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Ethanol,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Glycerin,solvent,5.00%,5.0,%,False
+US9114073B2,16,"Table 7, Ex 28 (MG033C)",Liquid dosage formulation,Rizatriptan benzoate,,F0028,Aspartame,sweetener,0.10%,0.1,%,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Rizatriptan Benzoate,API,14.50 mg,14.5,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Pullulan,polymer,69.29 mg,69.29,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Locust bean gum,polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,PVP-K90,polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Na Alginate (Manugel),polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Sucralose,sweetener,1.00 mg,1.0,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Glycerol,plasticizer,8.00 mg,8.0,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,S1170,permeation enhancer,4.00 mg,4.0,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Tween 80,surfactant,2.00 mg,2.0,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Span 80,surfactant,0.40 mg,0.4,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Peppermint oil,flavoring,0.30 mg,0.3,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,Menthol,flavoring,0.50 mg,0.5,mg,False
+US9114073B2,17,Example 29,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 6.9 cm² (two sheets of 3.45 cm per sheet); Film weight: 100.00 mg,F0029,FD&C Green #3,colorant,0.0100 mg,0.01,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Rizatriptan Benzoate,API,14.53 mg,14.53,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Pullulan,polymer,109.61 mg,109.61,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Locust bean gum,polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,PVP-K90,polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Na Alginate (Manugel),polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Sucralose,sweetener,1.45 mg,1.45,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Glycerol,plasticizer,11.62 mg,11.62,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,S1170,permeation enhancer,4.36 mg,4.36,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Tween 80,surfactant,2.18 mg,2.18,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Span 80,surfactant,0.36 mg,0.36,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Peppermint oil,flavoring,0.44 mg,0.44,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,Menthol,flavoring,0.73 mg,0.73,mg,False
+US9114073B2,17,Example 30,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0030,FD&C Green #3,colorant,0.0145 mg,0.0145,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Rizatriptan Benzoate,API,14.53 mg,14.53,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Pullulan,polymer,110.34 mg,110.34,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Locust bean gum,polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,PVP-K90,polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Na Alginate (Manugel),polymer,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Sucralose,sweetener,1.45 mg,1.45,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Glycerol,plasticizer,11.62 mg,11.62,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,S1170,permeation enhancer,4.36 mg,4.36,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Tween 80,surfactant,2.18 mg,2.18,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Span 80,surfactant,0.36 mg,0.36,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Peppermint oil,flavoring,0.44 mg,0.44,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,Menthol,flavoring,0.00 mg,0.0,mg,False
+US9114073B2,17,Example 31,Orally Disintegrating Film (ODF),Rizatriptan benzoate,Film size: 10 cm² (two sheets of 5 cm per sheet); Film weight: 145.30 mg,F0031,FD&C Green #3,colorant,0.0145 mg,0.0145,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Rizatriptan Benzoate,API,14.5 mg,14.5,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Pullulan,polymer,108.9 mg,108.9,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Locust bean gum,polymer,0.73 mg,0.73,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Sucralose,sweetener,1.45 mg,1.45,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Glycerol,plasticizer,1162 mg,1162.0,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,S1170,solvent,4.36 mg,4.36,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Tween 80,surfactant,2.18 mg,2.18,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Span 80,surfactant,0.36 mg,0.36,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Peppermint oil,flavoring,0.44 mg,0.44,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,Menthol,flavoring,0.73 mg,0.73,mg,False
+US9114073B2,18,Example 32,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0032,FD&C Green 13,colorant,0.0145 mg,0.0145,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Rizatriptan Benzoate,API,14.53 mg,14.53,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,PVP-K90,polymer,86.87 mg,86.87,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Na Alginate (Manugel),polymer,22.74 mg,22.74,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Sucralose,sweetener,1.45 mg,1.45,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Glycerol,plasticizer,1162 mg,1162.0,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,S1170,solvent,4.36 mg,4.36,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Tween 80,surfactant,2.18 mg,2.18,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Span 80,surfactant,0.36 mg,0.36,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Peppermint oil,flavoring,0.44 mg,0.44,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,Menthol,flavoring,0.73 mg,0.73,mg,False
+US9114073B2,18,Example 33,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0033,FD&C Green 13,colorant,0.0145 mg,0.0145,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Rizatriptan Benzoate,API,14.54 mg,14.54,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Pullulan,polymer,34.25 mg,34.25,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Na Alginate (Manugel),polymer,35.00 mg,35.0,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Sucralose,sweetener,1.00 mg,1.0,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Glycerol,plasticizer,8.00 mg,8.0,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,S1170,solvent,4.00 mg,4.0,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Tween 80,surfactant,2.00 mg,2.0,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Span 80,surfactant,0.40 mg,0.4,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Peppermint oil,flavoring,0.30 mg,0.3,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,Menthol,flavoring,0.50 mg,0.5,mg,False
+US9114073B2,18,Example 34,ODF (Orally Disintegrated Film),Rizatriptan Benzoate,,F0034,FD&C Green 13,colorant,0.01 mg,0.01,mg,False
+US9114073B2,20,Example 29,ODF,rizatriptan,,F0035,,,,,,False
+US9114073B2,20,Example 33,ODF,rizatriptan,,F0036,,,,,,False
+US9114073B2,20,Example 32,ODF,rizatriptan,,F0037,,,,,,False
+US9114073B2,20,Example 34,ODF,rizatriptan,,F0038,,,,,,False
+US9114073B2,20,NAL1606-205,ODF,rizatriptan,,F0039,,,,,,False
+US9114073B2,20,Example 35,ODF,rizatriptan,"size 2 cm × 5 cm, thickness 80–120 µm, weight 145.3 mg",F0040,,,,,,False
+US9114073B2,20,Example 36,ODF,not specified,"size 2 cm × 1.8 cm, thickness 80–120 µm, weight 40.0 mg",F0041,,,,,,False
+US9114073B2,20,Example 37,ODF,not specified,"size 2 cm × 1.8 cm, thickness 80–120 µm, weight 40.0 mg",F0042,,,,,,False
+US9114073B2,20,Example 38,ODF,not specified,"size 2 cm × 2 cm, thickness 80–120 µm, weight 50.0 mg",F0043,,,,,,False
+US9114073B2,20,Example 39,ODF,not specified,"size 3 cm × 4.5 cm, thickness 80–120 µm, weight 200 mg",F0044,,,,,,False
+US9114073B2,20,Example 40,ODF,Cetirizine,"size 2 cm × 3.5 cm, thickness 80–120 µm, weight 100 mg",F0045,,,,,,False
+US9114073B2,20,Example 41,ODF,Zolmitriptan,"size 2 cm × 2 cm, thickness 80–120 µm, weight 50.0 mg",F0046,,,,,,False
+US9114073B2,20,Example 42,ODF,Sumatriptan,"size 3 cm × 4.5 cm, thickness 80–120 µm, weight 200 mg",F0047,,,,,,False
+US9114073B2,20,Example 43,ODF,Ketoprofen,"size 2 cm × 5 cm, thickness 80–120 µm, weight 150 mg",F0048,,,,,,False
+US9114073B2,20,Example 44,ODF,Donepezil,"size 2 cm × 2 cm, thickness 80–120 µm, weight 50.0 mg",F0049,,,,,,False
+US9114073B2,20,Example 45,ODF,Fentanyl,"size 2 cm × 1.2 cm, thickness 80–120 µm, weight 31 mg",F0050,,,,,,False
+US9114073B2,20,Example 46,ODF,not specified,"high viscosity, size 2 cm × 5 cm, thickness 80–120 µm, weight 145.3 mg",F0051,,,,,,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Rizatriptan Benzoate,API,14.53 mg,14.53,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Pullulan 20% Solution,polymer,512 mg,512.0,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Purified Water,solvent,412.87 mg,412.87,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Sucralose,sweetener,1.74 mg,1.74,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Alcohol,solvent,1744 mg,1744.0,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Glycerin,plasticizer,1744 mg,1744.0,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Sucrose,sweetener,4.36 mg,4.36,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Fatty Acid Esters D-1811,adhesive,43.95 mg,43.95,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Polysorbate 80 (Tween 80),surfactant,2.18 mg,2.18,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Sorbitan Monooleate (Span 80),surfactant,0.36 mg,0.36,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Cherry Flavor,flavoring,0.73 mg,0.73,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Spearmint Oil,flavoring,0.36 mg,0.36,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Peppermint Oil,flavoring,0.36 mg,0.36,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,Menthol,flavoring,0.73 mg,0.73,mg,False
+US9114073B2,21,Example 35 (NAL1606-211),ODF,Rizatriptan Benzoate,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting between doctor knife and PET film: 0.7 mm to 1 mm; drying at 80°C for 20 minutes; films cut to 2 cm × 5 cm; premixes prepared at 60°C,F0052,FD&C Green #3 0.5% solution,colorant,2.9 mg,2.9,mg,False
+US9114073B2,25,Example 42,ODF,Sumatriptan,,F0053,Sumatriptan,API,25 mg,25.0,mg,False
+US9114073B2,25,Example 42,ODF,Sumatriptan,,F0053,Donepezil,API,200 mg,200.0,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Ketoprofen,API,25.00 mg,25.0,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Pullulan,polymer,98.81 mg,98.81,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Sucralose,sweetener,1.80 mg,1.8,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Ethanol,solvent,0.00 mg,0.0,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Glycerol,plasticizer,15.00 mg,15.0,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,D1811,adhesive,4.50 mg,4.5,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Tween 80,solubilizer,2.25 mg,2.25,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Span 80,solubilizer,0.38 mg,0.38,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Peppermint oil,flavor,1.50 mg,1.5,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,Menthol,flavor,0.25 mg,0.25,mg,False
+US9114073B2,25,Example 43,ODF,Ketoprofen,,F0054,FD&C Green #3,colorant,0.01 mg,0.01,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Donepezil hydrochloride,API,5.00 mg,5.0,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Pullulan,polymer,36.27 mg,36.27,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Sucralose,sweetener,0.60 mg,0.6,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Ethanol,solvent,0.00 mg,0.0,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Glycerol,plasticizer,5.00 mg,5.0,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,D1811,adhesive,1.50 mg,1.5,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Tween 80,solubilizer,0.75 mg,0.75,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Span 80,solubilizer,0.13 mg,0.13,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Peppermint oil,flavor,0.50 mg,0.5,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,Menthol,flavor,0.25 mg,0.25,mg,False
+US9114073B2,25,Example 44,ODF,Donepezil,,F0055,FD&C Green #3,colorant,0.01 mg,0.01,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,Fentanyl Citrate,API,0.314 mg,0.314,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Pullulan, NF",polymer,24.98 mg,24.98,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Purified Water, USP",solvent,0.00 mg,0.0,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Sucralose, GRAS",sweetener,0.38 mg,0.38,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Alcohol, USP",solvent,0.00 mg,0.0,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Glycerin, USP",plasticizer,3.77 mg,3.77,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,Sucrose Fatty Acid Esters D-1811,adhesive,0.94 mg,0.94,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Polysorbate 80, NF (Tween 80)",solubilizer,0.47 mg,0.47,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Sorbitan Monooleate, NF (Span 80)",solubilizer,0.08 mg,0.08,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,Cherry Flavor,flavor,0.16 mg,0.16,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,Spearmint Oil,flavor,0.08 mg,0.08,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Peppermint Oil, NF",flavor,0.08 mg,0.08,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"Menthol, USP",flavor,0.16 mg,0.16,mg,False
+US9114073B2,25,Example 45,ODF,Fentanyl,,F0056,"FD&C Green #3, CDER Listed",colorant,0.00314 mg,0.00314,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Rizatriptan Benzoate,API,14.53 mg,14.53,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Pullulan,polymer,102.49 mg,102.49,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Water,solvent,100.00 mg,100.0,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Ethanol,solvent,30.00 mg,30.0,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Sucralose,sweetener,1.74 mg,1.74,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Glycerin,plasticizer,17.44 mg,17.44,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Sucrose Fatty Acid Esters D-1811,permeation enhancer,4.36 mg,4.36,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Polysorbate 80 (Tween 80),surfactant,2.18 mg,2.18,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Sorbitan Monooleate (Span 80),surfactant,0.36 mg,0.36,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Cherry Flavor,flavor,0.73 mg,0.73,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Spearmint Oil,flavor,0.36 mg,0.36,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Peppermint Oil,flavor,0.36 mg,0.36,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,Menthol,flavor,0.73 mg,0.73,mg,False
+US9114073B2,26,Example 46,ODF / orally dissolving film,Rizatriptan Benzoate,"Premix A (surfactants, flavors, oils, menthol with ethanol at 60°C). Premix B (pullulan, sucralose, colorant dissolved in water at 100°C). Solution C (API added to Premix B). Coating Solution D (Premix A + Solution C combined and mixed at 100°C). Extrusion through slot die at room temperature or sli",F0057,FD&C Green #3,colorant,0.0145 mg,0.0145,mg,False
+US9114075B2,8,Preferred embodiment - Polyvinyl pyrrolidone and alginate film,Water soluble film,"Triptan (eletriptan, frovatriptan, sumat",,F0058,Polyvinyl pyrrolidone,polymer,5% to 95% by weight,5.0,%,False
+US9114075B2,8,Preferred embodiment - Polyvinyl pyrrolidone and alginate film,Water soluble film,"Triptan (eletriptan, frovatriptan, sumat",,F0058,Polymeric alginate (sodium alginate preferred),polymer,5% to 95% by weight,5.0,%,False
+US9114075B2,8,Preferred embodiment - Pullulan film,Water soluble film,"Triptan (eletriptan, frovatriptan, sumat",,F0059,Pullulan,polymer,not specified,,,False
+US9114075B2,8,Rizatriptan specific dosing,Film,Rizatriptan,,F0060,Rizatriptan (base or pharmaceutically acceptable salts),API,about 2.5 to about 15 mg,2.5,,False
+US9114075B2,8,Almotriptan specific dosing,Oral unit dosage form,Almotriptan,,F0061,Almotriptan (base),API,about 2.5 to about 15 mg,2.5,,False
+US9114075B2,8,Sumatriptan specific dosing (preferred range),Oral unit dosage form,Sumatriptan,,F0062,Sumatriptan (base),API,about 3 to about 25 mg,3.0,,False
+US9114075B2,8,Eletriptan specific dosing,Oral unit dosage form,Eletriptan,,F0063,Eletriptan (base),API,about 10 to about 30 mg,10.0,,False
+US9114075B2,8,Frovatriptan specific dosing,Oral unit dosage form,Frovatriptan,,F0064,Frovatriptan (base),API,about 1 to about 5 mg,1.0,,False
+US9114075B2,8,Zolmitriptan specific dosing,Oral unit dosage form,Zolmitriptan,,F0065,Zolmitriptan (base),API,about 1 to about 7.5 mg,1.0,,False
+US9114075B2,8,Naratriptan specific dosing,Oral unit dosage form,Naratriptan,,F0066,Naratriptan (base),API,about 1 to about 5 mg,1.0,,False
+US9114075B2,9,Table 1 - Sample A,film,,,F0067,Polyvinyl pyrrolidone (PVP),polymer,ratio 5:1,5.0,,False
+US9114075B2,9,Table 1 - Sample A,film,,,F0067,Polymeric alginate,polymer,ratio 5:1,5.0,,False
+US9114075B2,9,Table 1 - Sample B,film,,,F0068,Polyvinyl pyrrolidone (PVP),polymer,ratio 4:1,4.0,,False
+US9114075B2,9,Table 1 - Sample B,film,,,F0068,Polymeric alginate,polymer,ratio 4:1,4.0,,False
+US9114075B2,9,Table 1 - Sample C,film,,,F0069,Polyvinyl pyrrolidone (PVP),polymer,ratio 3:1,3.0,,False
+US9114075B2,9,Table 1 - Sample C,film,,,F0069,Polymeric alginate,polymer,ratio 3:1,3.0,,False
+US9114075B2,9,Table 1 - Sample D,film,,,F0070,Polyvinyl pyrrolidone (PVP),polymer,ratio 1:2,1.0,,False
+US9114075B2,9,Table 1 - Sample D,film,,,F0070,Polymeric alginate,polymer,ratio 1:2,1.0,,False
+US9114075B2,9,Table 1 - Sample E,film,,,F0071,Polyvinyl pyrrolidone (PVP),polymer,ratio 1:3,1.0,,False
+US9114075B2,9,Table 1 - Sample E,film,,,F0071,Polymeric alginate,polymer,ratio 1:3,1.0,,False
+US9114075B2,9,Example 7,film,,,F0072,Polyvinyl pyrrolidone K60,polymer,0.1620 grams,0.162,,False
+US9114075B2,9,Example 7,film,,,F0072,Polymeric alginate,polymer,ratio 2:1,2.0,,False
+US9114075B2,9,Example 8,film,,,F0073,Polyvinyl pyrrolidone K30,polymer,0.1620 grams,0.162,,False
+US9114075B2,9,Example 8,film,,,F0073,Polymeric alginate,polymer,ratio 2:1,2.0,,False
+US9114075B2,10,not specified on this page,"oral film, oral disintegrating tablet",rizatriptan or its pharmaceutically acce,"aqueous solution of matrix and polyvinyl pyrrolidone and polymeric alginate mixed with active ingredient, plasticizers and additives, cast into films by coating and drying using a coating and casting machine",F0074,polyvinyl pyrrolidone,polymer,not quantified,,,False
+US9114075B2,10,not specified on this page,"oral film, oral disintegrating tablet",rizatriptan or its pharmaceutically acce,"aqueous solution of matrix and polyvinyl pyrrolidone and polymeric alginate mixed with active ingredient, plasticizers and additives, cast into films by coating and drying using a coating and casting machine",F0074,polymeric alginate (sodium alginate),polymer,not quantified,,,False
+US9114075B2,10,not specified on this page,"oral film, oral disintegrating tablet",rizatriptan or its pharmaceutically acce,"aqueous solution of matrix and polyvinyl pyrrolidone and polymeric alginate mixed with active ingredient, plasticizers and additives, cast into films by coating and drying using a coating and casting machine",F0074,"fatty acid esters of sucrose (e.g., sucrose stearate, sucrose palmitate, sucrose laurate, sucrose behenate, sucrose oleate, sucrose erucate)",permeation enhancer,"0.5% to 20% (preferably 1% to 20%, more preferably 1% to 10%, most preferably 2% to 10%)",0.5,%,False
+US9114075B2,10,not specified on this page,"oral film, oral disintegrating tablet",rizatriptan or its pharmaceutically acce,"aqueous solution of matrix and polyvinyl pyrrolidone and polymeric alginate mixed with active ingredient, plasticizers and additives, cast into films by coating and drying using a coating and casting machine",F0074,nonionic surfactant (polysorbate or sorbitan fatty acid ester),surfactant,not quantified,,,False
+US9114075B2,10,not specified on this page,"oral film, oral disintegrating tablet",rizatriptan or its pharmaceutically acce,"aqueous solution of matrix and polyvinyl pyrrolidone and polymeric alginate mixed with active ingredient, plasticizers and additives, cast into films by coating and drying using a coating and casting machine",F0074,"secondary absorption enhancer (glycerol, ginger oil, cineole, terpenes)",absorption enhancer,not quantified,,,False
+US9114075B2,10,not specified on this page,"oral film, oral disintegrating tablet",rizatriptan or its pharmaceutically acce,"aqueous solution of matrix and polyvinyl pyrrolidone and polymeric alginate mixed with active ingredient, plasticizers and additives, cast into films by coating and drying using a coating and casting machine",F0074,plasticizers,plasticizer,not quantified,,,False
+US9114075B2,10,not specified on this page,"oral film, oral disintegrating tablet",rizatriptan or its pharmaceutically acce,"aqueous solution of matrix and polyvinyl pyrrolidone and polymeric alginate mixed with active ingredient, plasticizers and additives, cast into films by coating and drying using a coating and casting machine",F0074,flavoring agents,flavoring agent,not quantified,,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,isopropanol,solubilizer,20 grams,20.0,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,glycerol,plasticizer,64 grams,64.0,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,sucrose ester (HLB 11),permeation enhancer,6.4 grams,6.4,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,sucrose ester (HLB 5),permeation enhancer,2.4 grams,2.4,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,Tween 80,permeation enhancer,4 grams,4.0,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,Span 80,permeation enhancer,0.8 grams,0.8,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,ginger oil,flavor,0.2 gram,0.2,,False
+US9114075B2,12,EXAMPLE 1,base solution,,"Mixture heated gently to 45-50°C with mixing. Upon cooling to room temperature, a white opaque paste forms.",F0075,peppermint oil,flavor,0.08 gram,0.08,,False
+US9114075B2,12,EXAMPLE 2,orally dissolving film,rizatriptan,Film thickness (wet film) set at 1 mm for buccal application and 2 mm for sublingual application. Machine heated to 40-80°C or higher as needed. Mixture degassed in vacuum chamber until air bubble free. Casted onto release liner using doctor knife.,F0076,"polyvinylpyrrolidone (PVP K90, M.W. = 1.0-1.5×10⁶)",polymer,0.90 grams of 20% in water,0.9,,False
+US9114075B2,12,EXAMPLE 2,orally dissolving film,rizatriptan,Film thickness (wet film) set at 1 mm for buccal application and 2 mm for sublingual application. Machine heated to 40-80°C or higher as needed. Mixture degassed in vacuum chamber until air bubble free. Casted onto release liner using doctor knife.,F0076,"sodium alginate (Kelvis, viscosity = 760 cps @ 1% solution)",polymer,3.0 grams of 2.0% in water,3.0,,False
+US9114075B2,12,EXAMPLE 2,orally dissolving film,rizatriptan,Film thickness (wet film) set at 1 mm for buccal application and 2 mm for sublingual application. Machine heated to 40-80°C or higher as needed. Mixture degassed in vacuum chamber until air bubble free. Casted onto release liner using doctor knife.,F0076,base solution (from Example 1),excipient mixture,0.245 grams,0.245,,False
+US9114075B2,12,EXAMPLE 2,orally dissolving film,rizatriptan,Film thickness (wet film) set at 1 mm for buccal application and 2 mm for sublingual application. Machine heated to 40-80°C or higher as needed. Mixture degassed in vacuum chamber until air bubble free. Casted onto release liner using doctor knife.,F0076,rizatriptan benzoate,API,0.0513 gram,0.0513,,False
+US9114075B2,12,EXAMPLE 2,orally dissolving film,rizatriptan,Film thickness (wet film) set at 1 mm for buccal application and 2 mm for sublingual application. Machine heated to 40-80°C or higher as needed. Mixture degassed in vacuum chamber until air bubble free. Casted onto release liner using doctor knife.,F0076,aspartame,taste-masking agent,0.025 gram,0.025,,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Rizatriptan Benzoate,API,14.53 mg,14.53,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Pullulan,polymer,102.49 mg,102.49,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Purified Water,solvent,0.00 mg,0.0,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Sucralose,sweetener,1.74 mg,1.74,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Alcohol,solvent,0.00 mg,0.0,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Glycerin,plasticizer,17.44 mg,17.44,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Sucrose Fatty Acid Esters D-1811,adhesive,4.36 mg,4.36,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Polysorbate 80 (Tween 80),surfactant,2.18 mg,2.18,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Sorbitan Monooleate (Span 80),surfactant,0.36 mg,0.36,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Cherry Flavor,flavor,0.73 mg,0.73,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Spearmint Oil,flavor,0.36 mg,0.36,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Peppermint Oil,flavor,0.36 mg,0.36,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,Menthol,flavor,0.73 mg,0.73,mg,False
+US9114075B2,20,Example 35 / NAL1606-211,ODF (Oral Disintegrating Film),,"Premix A: Dissolve and mix well sucrose fatty acid esters D1811, glycerin, Tween 80, Span 80, cherry flavor, spearmint oil, peppermint oil, menthol together with ethanol at 60°C. Premix B: Dissolve pullulan (17.97g) in water (72.11g) and mix well at 60°C. Premix C: Dissolve 0.1 g of FD&C #3 into 19.",F0077,FD&C Green #3,colorant,0.0145 mg,0.0145,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Nicotine base,API,1.00 mg,1.0,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Alginic Acid OSO,polymer,0.50 mg,0.5,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Pullulan,polymer,29.48 mg,29.48,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Purified Water,solvent,134.38 mg,134.38,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Sucralose,sweetener,0.48 mg,0.48,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Soluto H15,adhesive,1.00 mg,1.0,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Stay D-1811,adhesive,1.00 mg,1.0,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Alcohol,solvent,5.20 mg,5.2,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Glycerin,plasticizer,3.20 mg,3.2,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Triethyl Citrate,plasticizer,2.00 mg,2.0,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Polysorbate 80 (Tween 80),surfactant,0.60 mg,0.6,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Sorbitan Monooleate (Span 80),surfactant,0.10 mg,0.1,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Peppermint Oil,flavoring,0.40 mg,0.4,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,Menthol,flavoring,0.20 mg,0.2,mg,False
+US9114075B2,21,Example 37,ODF,Nicotine base,Werner Mathis AG coating machine; machine heated to 80°C; wet film thickness/gap setting 0.7-1.0 mm; drying compartment at 80°C for 20 minutes; films cut to 2 cm × 5 cm and further cut into 2 cm × 2.5 cm pieces for PK studies,F0078,FD&C Yellow #6,colorant,0.04 mg,0.04,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Nicotine Polacrilex 20%,API,5.00 mg,5.0,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Pullulan,polymer,33.73 mg,33.73,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Purified Water,solvent,144.85 mg,144.85,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Sucralose,sweetener,0.60 mg,0.6,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Glycerin,plasticizer,4.00 mg,4.0,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Propylene Glycol,plasticizer,0.00 mg,0.0,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Alcohol,solvent,7.50 mg,7.5,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Stay D-1811,adhesive,1.50 mg,1.5,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Polysorbate 80 (Tween 80),surfactant,0.75 mg,0.75,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Sorbitan Monooleate (Span 80),surfactant,0.13 mg,0.13,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Peppermint Oil,flavoring,0.50 mg,0.5,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,Menthol,flavoring,0.25 mg,0.25,mg,False
+US9114075B2,21,Example 38,ODF,Nicotine,,F0079,FD&C Yellow #6,colorant,0.05 mg,0.05,mg,False
+US9114075B2,22,Example 39,ODF,Nicotine base,,F0080,Nicotine base,API,1 mg,1.0,mg,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Rizatriptan Benzoate,API,136.08 mg,136.08,mg,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Diclofenac Sodium,API,240 mg,240.0,mg,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Pullulan,polymer,68.04%,68.04,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Sucralose,sweetener,1.20%,1.2,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Ethanol,solvent,0.00%,0.0,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Glycerol,plasticizer,2.00%,2.0,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,D1811,component,3.00%,3.0,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Tween 80,surfactant,1.50%,1.5,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Span 80,surfactant,0.25%,0.25,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Cherry Flavor,flavoring,0.50%,0.5,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Spearmint oil,flavoring,0.25%,0.25,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Peppermint oil,flavoring,0.25%,0.25,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,Menthol,flavoring,0.50%,0.5,%,False
+US9114075B2,22,Example 39,ODF,Rizatriptan Benzoate and Diclofenac Sodi,,F0081,FD&C Green 3,colorant,0.01%,0.01,%,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Cetirizine HCL,API,10.00 mg,10.0,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Pullulan,polymer,69.30 mg,69.3,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Purified Water,solvent,326.95 mg,326.95,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Sorbitol,sweetener,5.00 mg,5.0,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Sucralose,sweetener,1.20 mg,1.2,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Alcohol,solvent,8.00 mg,8.0,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Glycerin,plasticizer,8.00 mg,8.0,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Sucrose Fatty Acid Esters,surfactant,3.00 mg,3.0,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,D-1811,component,1.50 mg,1.5,mg,False
+US9114075B2,22,Example 40,ODF,Cetirizine HCL,Size/Thickness: 2 cm × 5 cm / 100 μm; Weight: 100 mg,F0082,Polysorbate 80 (Tween 80),surfactant,1.50 mg,1.5,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Zolmitriptan,API,2.50 mg,2.5,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Pullulan,polymer,38.77 mg,38.77,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Sucralose,sweetener,0.60 mg,0.6,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Ethanol,solvent,0.00 mg,0.0,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Glycerol,plasticizer,5.00 mg,5.0,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,D1811,adhesive,1.50 mg,1.5,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Tween 80,surfactant,0.75 mg,0.75,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Span 80,surfactant,0.13 mg,0.13,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Peppermint oil,flavor,0.50 mg,0.5,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,Menthol,flavor,0.25 mg,0.25,mg,False
+US9114075B2,23,Example 41,ODF,Zolmitriptan,,F0083,FD&C Green #3,colorant,0.01 mg,0.01,mg,False
+US9114075B2,23,Example 42,ODF,Sumatriptan,,F0084,Sumatriptan succinate,API,35.00 mg,35.0,mg,False
+US9114075B2,23,Example 42,ODF,Sumatriptan,,F0084,Pullulan,polymer,130.08 mg,130.08,mg,False
+US9114075B2,23,Example 42,ODF,Sumatriptan,,F0084,Sucralose,sweetener,2.40 mg,2.4,mg,False
+US9114075B2,23,Example 42,ODF,Sumatriptan,,F0084,Ethanol,solvent,0.00 mg,0.0,mg,False
+US9114075B2,23,Example 42,ODF,Sumatriptan,,F0084,Glycerol,plasticizer,20.00 mg,20.0,mg,False
+US9114075B2,24,Example 42,ODF,Sumatriptan succinate,,F0085,Sumatriptan succinate,API,135 mg,135.0,mg,False
+US9114075B2,24,Example 42,ODF,Sumatriptan succinate,,F0085,D1811,polymer,6.00 ng,6.0,,False
+US9114075B2,24,Example 42,ODF,Sumatriptan succinate,,F0085,Tween 80,surfactant,3.00 ng,3.0,,False
+US9114075B2,24,Example 42,ODF,Sumatriptan succinate,,F0085,Span 80,surfactant,0.50 ng,0.5,,False
+US9114075B2,24,Example 42,ODF,Sumatriptan succinate,,F0085,Peppermint oil,flavoring,2.00 ng,2.0,,False
+US9114075B2,24,Example 42,ODF,Sumatriptan succinate,,F0085,menthol,flavoring,1.00 ng,1.0,,False
+US9114075B2,24,Example 42,ODF,Sumatriptan succinate,,F0085,FD&C Green i3,colorant,0.02 ng,0.02,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Ketoprofen,API,25.00 ng,25.0,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Pullulan,polymer,98.81 ng,98.81,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Sucralose,sweetener,1.80 ng,1.8,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Ethanol,solvent,0.00 ng,0.0,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Glycerol,plasticizer,15.00 ng,15.0,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,D1811,polymer,4.50 ng,4.5,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Tween 80,surfactant,2.25 ng,2.25,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Span 80,surfactant,0.38 ng,0.38,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,Peppermint oil,flavoring,1.50 ng,1.5,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,menthol,flavoring,0.75 ng,0.75,,False
+US9114075B2,24,Example 43,ODF,Ketoprofen,,F0086,FD&C Green i3,colorant,0.02 ng,0.02,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Donepezil hydrochloride,API,5.00 ng,5.0,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Pullulan,polymer,36.27 ng,36.27,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Sucralose,sweetener,0.60 ng,0.6,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Ethanol,solvent,0.00 ng,0.0,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Glycerol,plasticizer,5.00 ng,5.0,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,D1811,polymer,1.50 ng,1.5,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Tween 80,surfactant,0.75 ng,0.75,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Span 80,surfactant,0.13 ng,0.13,,False
+US9114075B2,24,Example 44,ODF,Donepezil hydrochloride,,F0087,Peppermint oil,flavoring,0.50 ng,0.5,,False
+US9114075B2,25,Example 44,ODF,Donepezil,,F0088,Menthol,flavor/coolant,0.25 mg,0.25,mg,False
+US9114075B2,25,Example 44,ODF,Donepezil,,F0088,FD&C Green #3,colorant,0.01%,0.01,%,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,Fentanyl Citrate,API,0.314 mg,0.314,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Pullulan, NF",polymer,24.98 mg,24.98,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Purified Water, USP",solvent,99.90224 mg,99.90224,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Sucralose, GRAS",sweetener,0.38 mg,0.38,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Alcohol, USP",solvent,3.00 mg,3.0,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Glycerin, USP",plasticizer,3.00 mg,3.0,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,Sucrose Fatty Acid Esters D-1811,permeation enhancer,0.75 mg,0.75,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Polysorbate 80 (Tween 80), NF",surfactant,0.38 mg,0.38,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Sorbitan Monooleate (Span 80), NF",surfactant,0.06 mg,0.06,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Cherry Flavor, CDER Listed",flavor,0.13 mg,0.13,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Spearmint Oil, CDER Listed",flavor,0.06 mg,0.06,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Peppermint Oil, NF",flavor,0.06 mg,0.06,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"Menthol, USP",flavor,0.13 mg,0.13,mg,False
+US9114075B2,25,Example 45,ODF,Fentanyl Citrate,,F0089,"FD&C Green #3, CDER Listed",colorant,3.00 mg,3.0,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Rizatriptan Benzoate,API,14.53 mg,14.53,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Pullulan,polymer,102.49 mg,102.49,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Water,solvent,100.00 mg,100.0,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Ethanol,solvent,30.00 mg,30.0,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Sucralose,sweetener,1.74 mg,1.74,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Glycerin,plasticizer,17.44 mg,17.44,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Sucrose Fatty Acid Esters D-1811,permeation enhancer,4.36 mg,4.36,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Polysorbate 80 (Tween 80),surfactant,2.18 mg,2.18,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Sorbitan Monooleate (Span 80),surfactant,0.36 mg,0.36,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Cherry Flavor,flavor,0.73 mg,0.73,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Spearmint Oil,flavor,0.36 mg,0.36,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Peppermint Oil,flavor,0.36 mg,0.36,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,Menthol,flavor,0.73 mg,0.73,mg,False
+US9114075B2,25,Example 46,ODF,Rizatriptan Benzoate,"Extrusion at room temperature or slightly elevated temperatures through slot die onto polyester substrate to form ribbons, rods, ovoid shapes; drying at 80–100°C; cutting into unit dosage forms",F0090,FD&C Green #3,colorant,0.0145 mg,0.0145,mg,False
+US10682370B2,3,Embodiment 1,topical composition (patch or cream),sorivudine,,F0091,sorivudine,antiviral agent,1% to 5%,1.0,%,False
+US10682370B2,3,Embodiment 1,topical composition (patch or cream),sorivudine,,F0091,lidocaine,local anesthetic,1% to 6%,1.0,%,False
+US10682370B2,3,Embodiment 2,topical composition (patch or cream),sorivudine,,F0092,sorivudine,antiviral agent,2% to 4%,2.0,%,False
+US10682370B2,3,Embodiment 2,topical composition (patch or cream),sorivudine,,F0092,lidocaine,local anesthetic,2% to 5%,2.0,%,False
+US10682370B2,3,Embodiment 3,topical composition (patch or cream),sorivudine,,F0093,sorivudine,antiviral agent,3%,3.0,%,False
+US10682370B2,3,Embodiment 3,topical composition (patch or cream),sorivudine,,F0093,lidocaine,local anesthetic,4% to 6%,4.0,%,False
+US10682370B2,3,Preferred embodiment 1,topical composition (patch or cream),sorivudine,,F0094,sorivudine,antiviral agent,<UNKNOWN>,,,False
+US10682370B2,3,Preferred embodiment 1,topical composition (patch or cream),sorivudine,,F0094,lidocaine,local anesthetic,2%,2.0,%,False
+US10682370B2,3,Preferred embodiment 2,topical composition (patch or cream),sorivudine,,F0095,sorivudine,antiviral agent,<UNKNOWN>,,,False
+US10682370B2,3,Preferred embodiment 2,topical composition (patch or cream),sorivudine,,F0095,lidocaine,local anesthetic,4%,4.0,%,False
+US10682370B2,3,Further preferred embodiment,topical composition (patch or cream),sorivudine,,F0096,sorivudine,antiviral agent,<UNKNOWN>,,,False
+US10682370B2,3,Further preferred embodiment,topical composition (patch or cream),sorivudine,,F0096,lidocaine,local anesthetic,5%,5.0,%,False
+US10682370B2,3,Embodiment 4,topical composition (patch or cream),sorivudine,,F0097,sorivudine,antiviral agent,2% to 4%,2.0,%,False
+US10682370B2,3,Embodiment 4,topical composition (patch or cream),sorivudine,,F0097,lidocaine,local anesthetic,2% to 4%,2.0,%,False
+US10682370B2,4,Preferred embodiment 1,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0098,sorivudine,antiviral drug,5 %,5.0,%,False
+US10682370B2,4,Preferred embodiment 1,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0098,lidocaine,local anesthetic,5 %,5.0,%,False
+US10682370B2,4,Preferred embodiment 2,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0099,sorivudine,antiviral drug,3 %,3.0,%,False
+US10682370B2,4,Preferred embodiment 2,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0099,lidocaine,local anesthetic,5 %,5.0,%,False
+US10682370B2,4,Particularly preferred embodiment 1,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0100,sorivudine,antiviral drug,3 %,3.0,%,False
+US10682370B2,4,Particularly preferred embodiment 1,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0100,lidocaine,local anesthetic,2 %,2.0,%,False
+US10682370B2,4,Particularly preferred embodiment 2,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0101,sorivudine,antiviral drug,3 %,3.0,%,False
+US10682370B2,4,Particularly preferred embodiment 2,pharmaceutical composition for topical administration,sorivudine and lidocaine,,F0101,lidocaine,local anesthetic,5 %,5.0,%,False
+US10682370B2,10,claim 4,"cream, lotion, gel, ointment, solution, liniment, suspension",sorivudine and lidocaine,,F0102,sorivudine,antiviral drug,5 %,5.0,%,False
+US10682370B2,10,claim 4,"cream, lotion, gel, ointment, solution, liniment, suspension",sorivudine and lidocaine,,F0102,lidocaine,local anesthetic,5 %,5.0,%,False
+US10682370B2,10,claim 4,"cream, lotion, gel, ointment, solution, liniment, suspension",sorivudine and lidocaine,,F0103,sorivudine,antiviral drug,3 %,3.0,%,False
+US10682370B2,10,claim 4,"cream, lotion, gel, ointment, solution, liniment, suspension",sorivudine and lidocaine,,F0103,lidocaine,local anesthetic,5 %,5.0,%,False
+US10682370B2,10,claim 4,"cream, lotion, gel, ointment, solution, liniment, suspension",sorivudine and lidocaine,,F0104,sorivudine,antiviral drug,3 %,3.0,%,False
+US10682370B2,10,claim 4,"cream, lotion, gel, ointment, solution, liniment, suspension",sorivudine and lidocaine,,F0104,lidocaine,local anesthetic,2 %,2.0,%,False
+US20140370077A1,4,General formulation (paragraph 0019),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0105,fentanyl or pharmaceutically acceptable salt thereof,active ingredient,5 to 40% by weight,22.5,%,True
+US20140370077A1,4,General formulation (paragraph 0019),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0105,acrylate-rubber hybrid,adhesive,60 to 95% by weight,77.5,%,True
+US20140370077A1,4,Formulation with crystallization inhibitor (paragraph 0020),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0106,fentanyl or pharmaceutically acceptable salt thereof,active ingredient,5 to 40% by weight,22.5,%,True
+US20140370077A1,4,Formulation with crystallization inhibitor (paragraph 0020),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0106,acrylate-rubber hybrid,adhesive,60 to 95% by weight,77.5,%,True
+US20140370077A1,4,Formulation with crystallization inhibitor (paragraph 0020),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0106,"acrylate polymer or methacrylate polymer copolymer (butyl methacrylate, 2-dimethylaminoethyl methacrylate, methyl methacrylate in 1:2:1 weight ratio)",crystallization-inhibiting agent,1 to 10% by weight,5.5,%,True
+US20140370077A1,4,Formulation with absorption enhancer (paragraph 0021-0022),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0107,fentanyl or pharmaceutically acceptable salt thereof,active ingredient,5 to 40% by weight,22.5,%,True
+US20140370077A1,4,Formulation with absorption enhancer (paragraph 0021-0022),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0107,acrylate-rubber hybrid,adhesive,60 to 95% by weight,77.5,%,True
+US20140370077A1,4,Formulation with absorption enhancer (paragraph 0021-0022),transdermal patch,fentanyl or pharmaceutically acceptable ,,F0107,"absorption enhancer (terpenes, non-ionic surfactants, polyoxyethylene alkyl ethers, polyethylene glycol glycerides, fatty alcohols, fatty acid esters, propylene glycol esters, polyglyceryl fatty acid esters, sugar esters, fatty acids, glycerols, alkyl 2-ethylhexanates, diethoxylethyl succinates; preferably polyethylene glycol palm kernel glyceride, polyoxyethylene lauryl ether, polyglyceryl-3 oleate, lauryl alcohol, or oleyl alcohol)",permeation enhancer,1 to 20% by weight,10.5,%,True
+US20140370077A1,5,Not explicitly labeled in this section,transdermal patch,fentanyl,Not specified on this page,F0108,acrylate-rubber hybrid adhesive,adhesive,60 to 95% by weight,77.5,%,True
+US20140370077A1,5,Not explicitly labeled in this section,transdermal patch,fentanyl,Not specified on this page,F0108,fentanyl or pharmaceutically acceptable salt,API,5 to 40% by weight,22.5,%,True
+US20140370077A1,5,Not explicitly labeled in this section,transdermal patch,fentanyl,Not specified on this page,F0108,"Eudragit E100 (copolymer of butyl methacrylate, 2-dimethylaminoethyl methacrylate, and methyl methacrylate in 1:2:1 weight ratio)",crystallization inhibiting agent,1 to 10% by weight,5.5,%,True
+US20140370077A1,5,Not explicitly labeled in this section,transdermal patch,fentanyl,Not specified on this page,F0108,"absorption enhancer (polyoxyethylene alkyl ethers and/or fatty alcohols, preferably polyoxyethylene lauryl ether e.g., Bri 30)",permeation enhancer,1 to 20% by weight,10.5,%,True
+AU2017203009B2,3,,oral unit dosage form / water soluble matrix,diethylstilbestrol,,F0109,diethylstilbestrol,API,effective for treating prostate or breast cancer,,,False
+AU2017203009B2,3,,oral unit dosage form / water soluble matrix,diethylstilbestrol,,F0109,pharmaceutically acceptable salts of diethylstilbestrol,API salt,effective for treating prostate or breast cancer,,,False
+AU2017203009B2,3,,oral unit dosage form / water soluble matrix,diethylstilbestrol,,F0109,"sucrose fatty acid esters (sucrose stearate, sucrose palmitate, sucrose laurate, sucrose oleate)",absorption enhancer,HLB of about 8 to 16,12.0,,True
+AU2017203009B2,8,,oral dosage matrix / tablet / film / powder / granule / liqu,diethylstilbestrol (DES) and pharmaceuti,,F0110,"sucrose fatty acid esters (sucrose stearate, sucrose palmitate, sucrose laurate, sucrose oleate)",absorption enhancer,HLB of about 8 to about 16,8.0,,False
+AU2017203009B2,8,,oral dosage matrix / tablet / film / powder / granule / liqu,diethylstilbestrol (DES) and pharmaceuti,,F0110,polyvinyl pyrrolidone,polymer,,,,False
+AU2017203009B2,8,,oral dosage matrix / tablet / film / powder / granule / liqu,diethylstilbestrol (DES) and pharmaceuti,,F0110,polymeric alginate,polymer,,,,False
+AU2017203009B2,13,,water soluble film,,,F0111,polyvinyl pyrrolidone,polymer,about 5% to about 95% by weight,5.0,%,False
+AU2017203009B2,13,,water soluble film,,,F0111,polymeric alginate,polymer,about 5% to about 95% by weight,5.0,%,False
+AU2017203009B2,13,,water soluble film,,,F0112,pullulan,polymer,,,,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Diethylstilbestrol,API,1.00 mg,1.0,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Pullulan,polymer,35.38 mg,35.38,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Sucralose,sweetener,1.00 mg,1.0,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,PEG1500,plasticizer,2.50 mg,2.5,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,TiO2,excipient,0.50 mg,0.5,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Sorbitol,sweetener,1.50 mg,1.5,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Alcohol,solvent,0.00 mg,0.0,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Glycerol,plasticizer,5.00 mg,5.0,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Sucrose Fatty Acid Esters D-1811,adhesive,1.50 mg,1.5,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Polysorbate 80 (Tween 80),surfactant,0.75 mg,0.75,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Sorbitan Monooleate (Span 80),surfactant,0.13 mg,0.13,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Cherry Flavor,flavor,0.25 mg,0.25,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Peppermint Oil,flavor,0.13 mg,0.13,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Spearmint oil,flavor,0.13 mg,0.13,mg,False
+AU2017203009B2,24,Example 1,ODF,Diethylstilbestrol,,F0113,Menthol,flavor,0.25 mg,0.25,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Alcohol,solvent,5.00 mg,5.0,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Glycerol,solvent,5.00 mg,5.0,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Sucrose Fatty Acid Esters D-1811,emulsifier,1.50 mg,1.5,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Polysorbate 80 (Tween 80),emulsifier,0.75 mg,0.75,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Sorbitan Monooleate (Span 80),emulsifier,0.13 mg,0.13,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Cherry Flavor,flavor,0.25 mg,0.25,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Peppermint Oil,flavor,0.13 mg,0.13,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Spearmint oil,flavor,0.13 mg,0.13,mg,False
+AU2017203009B2,25,Table 3. Intermediate Formula,oral liquid,,,F0114,Menthol,flavor,0.73 mg,0.73,mg,False
+AU2017203009B2,25,Table 4. Working Formula,ODF,Diethylstilbestrol,,F0115,Diethylstilbestrol,API,1.00 mg,1.0,mg,False
+AU2017203009B2,25,Table 4. Working Formula,ODF,Diethylstilbestrol,,F0115,20% Pullulan Solution,polymer,176.88 mg,176.88,mg,False
+AU2017203009B2,25,Table 4. Working Formula,ODF,Diethylstilbestrol,,F0115,Sucralose,sweetener,1.00 mg,1.0,mg,False
+AU2017203009B2,25,Table 4. Working Formula,ODF,Diethylstilbestrol,,F0115,PEG1500,plasticizer,2.50 mg,2.5,mg,False
+AU2017203009B2,25,Table 4. Working Formula,ODF,Diethylstilbestrol,,F0115,TiO2,colorant,0.50 mg,0.5,mg,False
+AU2017203009B2,25,Table 4. Working Formula,ODF,Diethylstilbestrol,,F0115,Sorbitol,sweetener,1.50 mg,1.5,mg,False
+AU2017203009B2,25,Table 4. Working Formula,ODF,Diethylstilbestrol,,F0115,NAL1892INT,intermediate formula,13.60 mg,13.6,mg,False
+AU2017203009B2,36,,tablet or capsule,,,F0116,oral dosage matrix (active ingredient),API,1 to 99%,50.0,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,absorption enhancer,permeation enhancer,0.1 to 20%,10.05,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,diluent or filler,filler,0 to 99%,49.5,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,disintegrant,disintegrant,0 to 20%,10.0,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,lubricant,lubricant,0 to 5%,2.5,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,flow aid,flow aid,0 to 5%,2.5,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,granulating agent or binder,binder,0 to 50%,25.0,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,antioxidant,antioxidant,0 to 5%,2.5,%,True
+AU2017203009B2,36,,tablet or capsule,,,F0116,pigment,colorant,0 to 5%,2.5,%,True
+AU2017203009B2,36,,controlled release tablet,,,F0117,release controlling polymer,polymer,0 to 90%,45.0,%,True
+AU2017203009B2,36,,liquid oral dosage formulation,,,F0118,oral dosage matrix (active ingredient),API,1 to 50%,25.5,%,True
+AU2017203009B2,36,,liquid oral dosage formulation,,,F0118,absorption enhancer,permeation enhancer,0.1 to 20%,10.05,%,True
+AU2017203009B2,36,,liquid oral dosage formulation,,,F0118,liquid carrier or vehicle (water),solvent,50 to 99%,74.5,%,True
+AU2017203009B2,36,,liquid oral dosage formulation,,,F0118,"buffering agents, antioxidants, suspension stabilisers, tonicity adjusting agents, preservatives",excipient,0 to 20%,10.0,%,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Kava Extract 80%,active ingredient,2-8,5.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Kava Extract 60%,active ingredient,1-3,2.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Dipalmitoyl Hydroxyproline,ingredient,0-5,2.5,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Sodium Hyaluronate,ingredient,0-10,5.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Glycerin / Butylene Glycol / Water / Carbomer / Polysorbate-20 / Palmitoyl Pentapeptide-3,ingredient,0-2,1.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Sucrose Fatty Acid Ester,ingredient,0-0.2,0.1,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,"Enhancers (Diethylene Glycol Monoethyl Ether, Caprylocaproyl Polyoxylglycerides, Propylene Glycol Monolaurate, Polyglyceryl Dioleate, Diisopropyl Adipate, or Sucrose Ester D1811)",permeation enhancer,0-5,2.5,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Medium-Chain Triglycerides,ingredient,0-2,1.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Cetearyl Alcohol / Cetearyl Glucoside,ingredient,0-8,4.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Glyceryl Stearate / PEG-100 Stearate,ingredient,1-3,2.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Glycol Palmitate,ingredient,0.2-0.8,0.5,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Cetearyl Alcohol,ingredient,0.05-0.2,0.125,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Squalane,ingredient,0.5-1.1,0.8,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Dimethicone,ingredient,0.1-0.3,0.2,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Tocopheryl Acetate,antioxidant,0.1-0.3,0.2,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Propylparaben,preservative,2-8,5.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Polyacrylate-13 / Polyisobutene / Polysorbate-20,ingredient,1.5-4.5,3.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Methylparaben,preservative,0.05-0.2,0.125,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Allantoin,ingredient,0.1-0.3,0.2,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Glycerin,ingredient,0.2-0.8,0.5,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,"1,3-Butylene Glycol",ingredient,1-3,2.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Disodium EDTA,ingredient,0.5-2,1.25,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,"Antioxidant (sodium bisulfite, BHT, BHA, propyl gallate, vitamin E, etc.)",antioxidant,0.5-2,1.25,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Fragrance,fragrance,0.1-0.3,0.2,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Xanthan Gum,ingredient,0.1-0.3,0.2,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Propylene Glycol / Diazolidinyl Urea / Iodopropynyl Butylcarbamate,preservative,0.2-0.8,0.5,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Portulaca Oleracea Extract,ingredient,1-3,2.0,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Polyethylene (21) Stearyl Ether,ingredient,0-0.8,0.4,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Isopropyl Myristate,ingredient,0-3,1.5,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Tween 80,ingredient,0-3,1.5,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Flavour,ingredient,0-0.3,0.15,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,COQ 10,ingredient,0-0.3,0.15,,True
+US20210244651A1,11,Example 1,cream,Kavalactones,,F0119,Water,solvent,55-70,62.5,,True
+US20210244651A1,13,Formulation C,cream,Kava extract,Applied twice daily for 3 months,F0120,,,,,,False
+US20210244651A1,13,Formulation G,cream,Kava extract,Applied twice daily around eyes for 6 days,F0121,,,,,,False
+US20170002057A1,13,Example 2; Table 5,Recombinant fusion protein (mammalian expression),SST14-HSA fusion proteins,"FreeStyle 293-F suspension cells seeded at 0.55–0.6 × 10⁶ cells/mL, expanded to 1.1–1.2 × 10⁶ cells/mL after ~24 hours. Transfection: 500 μg DNA/80 mL FreeStyle medium mixed with 1.8 mL PEI per 80 mL FreeStyle medium; DNA-PEI complex incubated 15 minutes at room temperature, then added to culture. T",F0122,SST14-A (EAAAK) A-HSA-A (EAAAK) A-SST14,fusion protein construct (SEQ ID NO: 1),657 amino acids,657.0,,False
+US20170002057A1,13,Example 2; Table 5,Recombinant fusion protein (mammalian expression),SST14-HSA fusion proteins,"FreeStyle 293-F suspension cells seeded at 0.55–0.6 × 10⁶ cells/mL, expanded to 1.1–1.2 × 10⁶ cells/mL after ~24 hours. Transfection: 500 μg DNA/80 mL FreeStyle medium mixed with 1.8 mL PEI per 80 mL FreeStyle medium; DNA-PEI complex incubated 15 minutes at room temperature, then added to culture. T",F0122,HSA-A (EAAAK) A-SST14,fusion protein construct (SEQ ID NO: 2),621 amino acids,621.0,,False
+US20170002057A1,13,Example 2; Table 5,Recombinant fusion protein (mammalian expression),SST14-HSA fusion proteins,"FreeStyle 293-F suspension cells seeded at 0.55–0.6 × 10⁶ cells/mL, expanded to 1.1–1.2 × 10⁶ cells/mL after ~24 hours. Transfection: 500 μg DNA/80 mL FreeStyle medium mixed with 1.8 mL PEI per 80 mL FreeStyle medium; DNA-PEI complex incubated 15 minutes at room temperature, then added to culture. T",F0122,SST14-(GGGGS)-HSA,fusion protein construct (SEQ ID NO: 7),614 amino acids,614.0,,False
+US20170002057A1,13,Example 2; Table 5,Recombinant fusion protein (mammalian expression),SST14-HSA fusion proteins,"FreeStyle 293-F suspension cells seeded at 0.55–0.6 × 10⁶ cells/mL, expanded to 1.1–1.2 × 10⁶ cells/mL after ~24 hours. Transfection: 500 μg DNA/80 mL FreeStyle medium mixed with 1.8 mL PEI per 80 mL FreeStyle medium; DNA-PEI complex incubated 15 minutes at room temperature, then added to culture. T",F0122,SST14-A (EAAAK) A-HSA,fusion protein construct (SEQ ID NO: 8),621 amino acids,621.0,,False
+US20170002057A1,13,Example 2; Table 5,Recombinant fusion protein (mammalian expression),SST14-HSA fusion proteins,"FreeStyle 293-F suspension cells seeded at 0.55–0.6 × 10⁶ cells/mL, expanded to 1.1–1.2 × 10⁶ cells/mL after ~24 hours. Transfection: 500 μg DNA/80 mL FreeStyle medium mixed with 1.8 mL PEI per 80 mL FreeStyle medium; DNA-PEI complex incubated 15 minutes at room temperature, then added to culture. T",F0122,H6-GGGGS-HSA-GGGGS-SST14,fusion protein construct (SEQ ID NO: 9),613 amino acids,613.0,,False
+US20170002057A1,15,Table 7 / Example 5,protein fusion construct,SST14 fusion protein,,F0123,Albumin-(GGGGS)-SST14,API (fusion protein),not specified,,,False
+US20170002057A1,15,Table 7 / Example 5,protein fusion construct,SST14 fusion protein,,F0124,SST14-A (EAAAK) A-Albumin-A (EAAAK) A-SST14,API (fusion protein with linker),not specified,,,False
+US20170002057A1,15,Table 7 / Example 5,protein fusion construct,SST14 fusion protein,,F0125,Albumin-A (EAAAK) A-SST14,API (fusion protein with linker),not specified,,,False
+US20170002057A1,15,Table 7 / Example 5,protein fusion construct,SST14 fusion protein,,F0126,H6-GGGGS-Albumin-GGGGS-SST14,API (fusion protein),not specified,,,False
+US20170002057A1,15,Example 5-1 / Example 5-2,protein solution (plasma stability assay),SST fusion protein,"Incubation at 37°C for 1, 2, 5, 20, 60, 80, 100, 120, 150, and 180 minutes; centrifuged at 5500 rpm for 10 minutes",F0127,SST fusion protein,API,750 ng/mL,750.0,,False
+US20170002057A1,15,Example 5-1 / Example 5-2,protein solution (plasma stability assay),SST fusion protein,"Incubation at 37°C for 1, 2, 5, 20, 60, 80, 100, 120, 150, and 180 minutes; centrifuged at 5500 rpm for 10 minutes",F0127,Pooled rat plasma,assay matrix,not specified,,,False
+US20170002057A1,15,Example 5-2,peptide standard solution,Free SST,Serial dilution of 1 mg/mL stock,F0128,Free SST,standard,1 mg/mL stock,1.0,mg,False
+US20170002057A1,15,Example 5-2,protein standard solution,SST fusion protein,Serial dilution of 2.42 mg/mL stock,F0129,SST fusion protein (SEQ ID NO: 1),standard,2.42 mg/mL stock,2.42,mg,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,penetration enhancer,permeation enhancer,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,glycerol or terpenes,secondary absorption enhancer,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,surfactant,surfactant,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,humectant,humectant,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,emulsifier,emulsifier,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,solubilizing agent,solvent,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,solvent,solvent,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,base polymer,polymer,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,diluent,solvent,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,antioxidant,antioxidant,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,preservative,preservative,not specified,,,False
+CA3085973A1,1,Not specified in abstract,liquid topical composition,terbinafine,,F0130,film forming agent,polymer,not specified,,,False
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Terbinafine HCl,API,8.00-12.00%,10.0,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Polyvinylpyrrolidone K 30,polymer,0.40-0.60%,0.5,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Isopropyl Myristate,permeation enhancer,0.00-3.00%,1.5,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Propylene glycol,solvent,0.00-3.00%,1.5,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Polysorbate 80,surfactant,0.00-3.00%,1.5,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Sorbitan Oleate,surfactant,0.00-3.00%,1.5,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Diethylene Glycol Monoethyl Ether,solvent,0.00-6.00%,3.0,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Caprylocaproyl Polyoxyglyccerides,surfactant,0.00-6.00%,3.0,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Propylene Glycol Monolaurate,surfactant,0.00-6.00%,3.0,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Polyglyceryl Dioleate,surfactant,0.00-6.00%,3.0,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Medium-Chain Triglycerides,solvent,0.00-6.00%,3.0,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Diisopropyl Adipate,plasticizer,0.00-6.00%,3.0,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,Benzyl Alcohol,preservative,0.40-0.60%,0.5,%,True
+CA3085973A1,13,Terbinafine Lacquer Formulation,liquid lacquer,Terbinafine HCl,,F0131,"Ethyl alcohol, anhydrous",solvent,74.00-91.00%,82.5,%,True
+CA3085973A1,14,1A,Lacquer,Terbinafine HCl,,F0132,Terbinafine HCl,API,10.00,10.0,,False
+CA3085973A1,14,1A,Lacquer,Terbinafine HCl,,F0132,Polyvinyl-pyrrolidone K 30,polymer,0.50,0.5,,False
+CA3085973A1,14,1B,Lacquer,Terbinafine HCl,,F0133,Terbinafine HCl,API,10.00,10.0,,False
+CA3085973A1,14,1B,Lacquer,Terbinafine HCl,,F0133,Polyvinyl-pyrrolidone K 30,polymer,0.50,0.5,,False
+CA3085973A1,14,1B,Lacquer,Terbinafine HCl,,F0133,Polysorbate 80,surfactant,2.50,2.5,,False
+CA3085973A1,14,1C,Lacquer,Terbinafine HCl,,F0134,Terbinafine HCl,API,10.00,10.0,,False
+CA3085973A1,14,1C,Lacquer,Terbinafine HCl,,F0134,Polyvinyl-pyrrolidone K 30,polymer,0.50,0.5,,False
+CA3085973A1,14,1D,Lacquer,Terbinafine HCl,,F0135,Terbinafine HCl,API,10.00,10.0,,False
+CA3085973A1,14,1D,Lacquer,Terbinafine HCl,,F0135,Polyvinyl-pyrrolidone K 30,polymer,0.50,0.5,,False
+CA3085973A1,14,1E,Lacquer,Terbinafine HCl,,F0136,Terbinafine HCl,API,10.00,10.0,,False
+CA3085973A1,14,1E,Lacquer,Terbinafine HCl,,F0136,Polyvinyl-pyrrolidone K 30,polymer,0.50,0.5,,False
+CA3085973A1,14,1F,Lacquer,Terbinafine HCl,,F0137,Terbinafine HCl,API,10.00,10.0,,False
+CA3085973A1,14,1F,Lacquer,Terbinafine HCl,,F0137,Polyvinyl-pyrrolidone K 30,polymer,0.50,0.5,,False
+CA3085973A1,14,1G,Lacquer,Terbinafine HCl,,F0138,Terbinafine HCl,API,10.00,10.0,,False
+CA3085973A1,14,1G,Lacquer,Terbinafine HCl,,F0138,Polyvinyl-pyrrolidone K 30,polymer,0.50,0.5,,False
+CA3085973A1,15,1H,<UNKNOWN>,Terbinafine HCl,,F0139,Terbinafine HCl,API,10.00%,10.0,%,False
+CA3085973A1,15,1H,<UNKNOWN>,Terbinafine HCl,,F0139,Polyvinyl-pyrrolidone K 30,polymer,0.50%,0.5,%,False
+CA3085973A1,15,1H,<UNKNOWN>,Terbinafine HCl,,F0139,Benzyl Alcohol,solvent,0.50%,0.5,%,False
+CA3085973A1,15,1H,<UNKNOWN>,Terbinafine HCl,,F0139,"Ethyl alcohol, anhydrous",solvent,89.00%,89.0,%,False
+CA3085973A1,15,1I,<UNKNOWN>,Terbinafine HCl,,F0140,Terbinafine HCl,API,10.00%,10.0,%,False
+CA3085973A1,15,1I,<UNKNOWN>,Terbinafine HCl,,F0140,Polyvinyl-pyrrolidone K 30,polymer,0.50%,0.5,%,False
+CA3085973A1,15,1I,<UNKNOWN>,Terbinafine HCl,,F0140,Isopropyl Myristate,permeation enhancer,2.50%,2.5,%,False
+CA3085973A1,15,1I,<UNKNOWN>,Terbinafine HCl,,F0140,Caprylocaproyl Polyoxylglycerides,solvent,5.00%,5.0,%,False
+CA3085973A1,15,1I,<UNKNOWN>,Terbinafine HCl,,F0140,Benzyl Alcohol,solvent,0.50%,0.5,%,False
+CA3085973A1,15,1I,<UNKNOWN>,Terbinafine HCl,,F0140,"Ethyl alcohol, anhydrous",solvent,84.00%,84.0,%,False
+CA3085973A1,15,1J,<UNKNOWN>,Terbinafine HCl,,F0141,Terbinafine HCl,API,10.00%,10.0,%,False
+CA3085973A1,15,1J,<UNKNOWN>,Terbinafine HCl,,F0141,Polyvinyl-pyrrolidone K 30,polymer,0.50%,0.5,%,False
+CA3085973A1,15,1J,<UNKNOWN>,Terbinafine HCl,,F0141,Isopropyl Myristate,permeation enhancer,2.50%,2.5,%,False
+CA3085973A1,15,1J,<UNKNOWN>,Terbinafine HCl,,F0141,Propylene glycol,solvent,2.50%,2.5,%,False
+CA3085973A1,15,1J,<UNKNOWN>,Terbinafine HCl,,F0141,Caprylocaproyl Polyoxylglycerides,solvent,5.00%,5.0,%,False
+CA3085973A1,15,1J,<UNKNOWN>,Terbinafine HCl,,F0141,Benzyl Alcohol,solvent,0.50%,0.5,%,False
+CA3085973A1,15,1J,<UNKNOWN>,Terbinafine HCl,,F0141,"Ethyl alcohol, anhydrous",solvent,84.00%,84.0,%,False
+CA3085973A1,15,1K,<UNKNOWN>,Terbinafine HCl,,F0142,Terbinafine HCl,API,10.00%,10.0,%,False
+CA3085973A1,15,1K,<UNKNOWN>,Terbinafine HCl,,F0142,Polyvinyl-pyrrolidone K 30,polymer,0.50%,0.5,%,False
+CA3085973A1,15,1K,<UNKNOWN>,Terbinafine HCl,,F0142,Isopropyl Myristate,permeation enhancer,2.00%,2.0,%,False
+CA3085973A1,15,1K,<UNKNOWN>,Terbinafine HCl,,F0142,Propylene glycol,solvent,2.00%,2.0,%,False
+CA3085973A1,15,1K,<UNKNOWN>,Terbinafine HCl,,F0142,Caprylocaproyl Polyoxylglycerides,solvent,5.00%,5.0,%,False
+CA3085973A1,15,1K,<UNKNOWN>,Terbinafine HCl,,F0142,Benzyl Alcohol,solvent,0.50%,0.5,%,False
+CA3085973A1,15,1K,<UNKNOWN>,Terbinafine HCl,,F0142,"Ethyl alcohol, anhydrous",solvent,84.00%,84.0,%,False
+CA3085973A1,16,2A,solution,Minoxidil,,F0143,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2A,solution,Minoxidil,,F0143,"Ethanol, Anhydrous",solvent,25.00,25.0,,False
+CA3085973A1,16,2A,solution,Minoxidil,,F0143,Propylene Glycol,solvent,45.00,45.0,,False
+CA3085973A1,16,2A,solution,Minoxidil,,F0143,Caprylocaproyl Polyoxyglycérides,solubilizer,3.00,3.0,,False
+CA3085973A1,16,2A,solution,Minoxidil,,F0143,Diethylene Glycol Monoethyl Ether,solvent,7.00,7.0,,False
+CA3085973A1,16,2A,solution,Minoxidil,,F0143,Water,solvent,15.00,15.0,,False
+CA3085973A1,16,2B,solution,Minoxidil,,F0144,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2B,solution,Minoxidil,,F0144,"Ethanol, Anhydrous",solvent,30.00,30.0,,False
+CA3085973A1,16,2B,solution,Minoxidil,,F0144,Propylene Glycol,solvent,50.00,50.0,,False
+CA3085973A1,16,2B,solution,Minoxidil,,F0144,Water,solvent,15.00,15.0,,False
+CA3085973A1,16,2C,solution,Minoxidil,,F0145,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2C,solution,Minoxidil,,F0145,"Ethanol, Anhydrous",solvent,25.00,25.0,,False
+CA3085973A1,16,2C,solution,Minoxidil,,F0145,Propylene Glycol,solvent,45.00,45.0,,False
+CA3085973A1,16,2C,solution,Minoxidil,,F0145,Caprylocaproyl Polyoxyglycérides,solubilizer,3.00,3.0,,False
+CA3085973A1,16,2C,solution,Minoxidil,,F0145,Diethylene Glycol Monoethyl Ether,solvent,7.00,7.0,,False
+CA3085973A1,16,2C,solution,Minoxidil,,F0145,Water,solvent,15.00,15.0,,False
+CA3085973A1,16,2D,solution,Minoxidil,,F0146,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2D,solution,Minoxidil,,F0146,"Ethanol, Anhydrous",solvent,30.00,30.0,,False
+CA3085973A1,16,2D,solution,Minoxidil,,F0146,Propylene Glycol,solvent,50.00,50.0,,False
+CA3085973A1,16,2D,solution,Minoxidil,,F0146,Water,solvent,15.00,15.0,,False
+CA3085973A1,16,2E,solution,Minoxidil,,F0147,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2E,solution,Minoxidil,,F0147,"Ethanol, Anhydrous",solvent,25.00,25.0,,False
+CA3085973A1,16,2E,solution,Minoxidil,,F0147,Propylene Glycol,solvent,45.00,45.0,,False
+CA3085973A1,16,2F,solution,Minoxidil,,F0148,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2F,solution,Minoxidil,,F0148,"Ethanol, Anhydrous",solvent,30.00,30.0,,False
+CA3085973A1,16,2G,solution,Minoxidil,,F0149,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2G,solution,Minoxidil,,F0149,"Ethanol, Anhydrous",solvent,30.00,30.0,,False
+CA3085973A1,16,2H,solution,Minoxidil,,F0150,Minoxidil,API,5.00,5.0,,False
+CA3085973A1,16,2H,solution,Minoxidil,,F0150,"Ethanol, Anhydrous",solvent,25.00,25.0,,False
+CA3085973A1,17,Formulation 1 (top table row 1),transdermal lacquer,terbinafine,,F0151,Propylene Glycol,solvent,45.00,45.0,,False
+CA3085973A1,17,Formulation 1 (top table row 1),transdermal lacquer,terbinafine,,F0151,Caprylocaproyl Polyoxyglicerides,permeation enhancer,3.00,3.0,,False
+CA3085973A1,17,Formulation 1 (top table row 1),transdermal lacquer,terbinafine,,F0151,Diethylene Glycol Monoethyl Ether,solvent,7.00,7.0,,False
+CA3085973A1,17,Formulation 1 (top table row 1),transdermal lacquer,terbinafine,,F0151,BHT,antioxidant,0.10,0.1,,False
+CA3085973A1,17,Formulation 1 (top table row 1),transdermal lacquer,terbinafine,,F0151,Water,solvent,14.90,14.9,,False
+CA3085973A1,17,Formulation 2 (top table row 2),transdermal lacquer,terbinafine,,F0152,Propylene Glycol,solvent,50.00,50.0,,False
+CA3085973A1,17,Formulation 2 (top table row 2),transdermal lacquer,terbinafine,,F0152,BHT,antioxidant,0.10,0.1,,False
+CA3085973A1,17,Formulation 2 (top table row 2),transdermal lacquer,terbinafine,,F0152,Water,solvent,14.90,14.9,,False
+CA3085973A1,17,Formulation 3 (top table row 3),transdermal lacquer,terbinafine,,F0153,Propylene Glycol,solvent,50.00,50.0,,False
+CA3085973A1,17,Formulation 3 (top table row 3),transdermal lacquer,terbinafine,,F0153,Water,solvent,15.00,15.0,,False
+CA3085973A1,17,Formulation 4 (top table row 4),transdermal lacquer,terbinafine,,F0154,Propylene Glycol,solvent,45.00,45.0,,False
+CA3085973A1,17,Formulation 4 (top table row 4),transdermal lacquer,terbinafine,,F0154,Caprylocaproyl Polyoxyglicerides,permeation enhancer,3.00,3.0,,False
+CA3085973A1,17,Formulation 4 (top table row 4),transdermal lacquer,terbinafine,,F0154,Diethylene Glycol Monoethyl Ether,solvent,7.00,7.0,,False
+CA3085973A1,17,Formulation 4 (top table row 4),transdermal lacquer,terbinafine,,F0154,Water,solvent,15.00,15.0,,False
+CA3085973A1,17,Example 1B (Table 3),transdermal lacquer,terbinafine,,F0155,,,,,,False
+CA3085973A1,17,Example 1D (Table 3),transdermal lacquer,terbinafine,,F0156,,,,,,False
+CA3085973A1,17,Example 1F (Table 3),transdermal lacquer,terbinafine,,F0157,,,,,,False
+CA3085973A1,17,Example 1G (Table 3),transdermal lacquer,terbinafine,,F0158,,,,,,False
+CA3085973A1,17,Example 1I (Table 3),transdermal lacquer,terbinafine,,F0159,,,,,,False
+CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Semi-solid dosage form for topical application,,<not specified on this page>,F0160,Active Ingredient (unspecified in this page),API,<not specified>,,,False
+CA3085974A1,2,Not explicitly labeled,Semi-solid dosage form for topical application,Glucosamine (osteoarthritis drug),,F0161,,,,,,False
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Glucosamine HCl,API,3.00-12.00,7.5,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Water,solvent,38.00-82.00,60.0,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Propylene Glycol,solvent/humectant,3.00-14.00,8.5,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Capsaicin,active,0.00-0.04,0.02,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Methylsulfonylmethane,active,0.00-6.00,3.0,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Chondroitin,active,0.00-6.00,3.0,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Histamine Dihydrochloride,active,0.00-0.04,0.02,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Mentha Arvensis Leaf Oil (Peppermint Oil),fragrance,0.00-2.80,1.4,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Menthol,fragrance,0.00-2.60,1.3,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Capryloyl Polyoxyl glycerides,emulsifier,0.00-6.00,3.0,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Cetearyl Alcohol,emollient,0.00-10.00,5.0,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Cetearyl Glucoside,emulsifier,0.00-3.00,1.5,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Cetearyl Alcohol/Stearyl Alcohol,emollient,0.00-9.00,4.5,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Cetearyl Alcohol & Cetearyl Glucoside,emulsifier,0.00-2.50,1.25,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Glyceryl Stearate/PEG-100 Stearate,emulsifier,0.00-4.90,2.45,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Polyacrylamide/C13-14 Isoparaffin/Laureth-7,emulsifier,0.00-0.56,0.28,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Xanthan Gum,thickener,0.00-0.35,0.175,,True
+CA3085974A1,14,Glucosamine cream formulation,cream,Glucosamine HCl,,F0162,Glyceryl Diisostearate,emollient,0.00-0.02,0.01,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Alprostadil,API,0.32-0.48,0.4,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Glycerol,humectant,4.00-6.00,5.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Guar Gum,thickener,1.60-2.40,2.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Sodium Carboxymethyl Cellulose,thickener,0.00-1.80,0.9,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Isopropyl Myristate,emollient,0.00-3.60,1.8,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Ethanol,solvent,4.00-6.00,5.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,0.1M PBS pH 4.6,vehicle,70.00-90.00,80.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Phosphoric acid (1:10),buffer,0.00-1.20,0.6,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Polysorbate 80,surfactant,0.00-0.60,0.3,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Sorbitan Oleate,surfactant,0.00-0.60,0.3,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Diethylene Glycol Monoethyl Ether,solvent,0.00-6.00,3.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Caprylocapryl Polyoxylglycerides,solubilizer,0.00-6.00,3.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Propylene Glycol Monolaurate,emulsifier,0.00-6.00,3.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Medium-Chain Triglycerides,emollient,0.00-6.00,3.0,,True
+CA3085974A1,15,Alprostadil cream formulation,cream,Alprostadil,,F0163,Polyglyceryl Dioleate,emulsifier,0.00-6.00,3.0,,True
+CA3085974A1,15,Gefitinib Cream Formulations,cream,Gefitinib,,F0164,Gefitinib,API,0.80-1.20,1.0,,True
+CA3085974A1,15,Gefitinib Cream Formulations,cream,Gefitinib,,F0164,Ethyl Cellulose,polymer,0.00-1.80,0.9,,True
+CA3085974A1,15,Gefitinib Cream Formulations,cream,Gefitinib,,F0164,Propylene Glycol,solvent,0.00-4.80,2.4,,True
+CA3085974A1,15,Gefitinib Cream Formulations,cream,Gefitinib,,F0164,Glycerin,humectant,2.00-6.00,4.0,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Menthol,flavoring/cooling agent,0.00-1.20,0.6,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Polysorbate 80,emulsifier/solubilizer,0.00-3.00,1.5,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Sorbitan Oleate,emulsifier,0.00-3.00,1.5,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Sucrose Ester D1811,emulsifier,0.00-0.60,0.3,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Cetearyl Alcohol,emulsifier/thickener,0.00-5.50,2.75,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Glyceryl Stearate/PEG-100 Stearate,emulsifier,0.00-5.50,2.75,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Medium-Chain Triglycerides,emollient/solvent,0.00-3.60,1.8,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Dimethicone,silicone oil,0.00-2.40,1.2,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Purified Water,solvent,63.00-96.00,79.5,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Triethanolamine,pH adjuster,0.20-0.70,0.44999999999999996,,True
+CA3085974A1,16,Sorbitan Oleate Formulation,cream,Not specified - excipient composition,pH: 1.7-8.5,F0165,Polyacrylamide/C13-14 Isoparaffin/Laureth-7,emulsion stabilizer,0.00-1.80,0.9,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Sorivudine,API,2.40-3.60,3.0,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Lidocaine HCl,API,1.40-4.60,3.0,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Sucrose Ester D1811,emulsifier,0.40-0.60,0.5,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Polysorbate 80,emulsifier/solubilizer,0.17-0.58,0.375,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Sorbitan Oleate,emulsifier,0.17-0.58,0.375,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Glycerol,humectant/solvent,0.00-3.60,1.8,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Ethanol,solvent,0.00-9.60,4.8,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Cetyl Alcohol,emulsifier/thickener,1.00-3.50,2.25,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Octadecanol,emulsifier/thickener,1.00-3.50,2.25,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Propylene Glycol,humectant/solvent,0.00-12.00,6.0,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,PEG-400,humectant/solvent,0.00-24.00,12.0,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Benzoic Acid,preservative,0.00-2.40,1.2,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Medium-Chain Triglycerides,emollient/solvent,1.50-3.50,2.5,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Glyceryl Monostearate/PEG-100,emulsifier,4.00-6.00,5.0,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Dimethicone,silicone oil,1.60-2.40,2.0,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Carboma 980,thickener,0.00-0.24,0.12,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,BHT,antioxidant,0.00-0.60,0.3,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Sodium Sulfite,antioxidant,0.00-0.60,0.3,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Peppermint Oil,fragrance,0.00-0.60,0.3,,True
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Purified Water,solvent,QS,,,False
+CA3085974A1,16,Sorivudine & Lidocaine Cream Formulation,cream,Sorivudine and Lidocaine HCl,pH: 5.9-5,F0166,Sodium Hydroxide,pH adjuster,QS,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Cetearyl Alcohol/Cetearyl Glucoside,emulsifier,2.00,2.0,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Cetearyl Alcohol/Stearyl Alcohol,emulsifier,3.00,3.0,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Glyceryl Stearate/PEG-100 Stearate,emulsifier,4.00,4.0,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Polyacrylamide/C13-14 Isoparaffin/Laureth-7,emulsifier,0.50,0.5,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Xanthan Gum,thickener,0.25,0.25,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Glyceryl Diisostearate,emollient,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Ethylhexyl Palmitate,emollient,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Squalane,emollient,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Diisostearyl Malate,emollient,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Butylene Glycol,humectant,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Medium-Chain Triglycerides,emollient,2.00,2.0,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Cyclopentasiloxane,silicone,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Dimethicone,silicone,2.00,2.0,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Allantoin,skin conditioning,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Peppermint Oil,fragrance,0.50,0.5,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Menthol,fragrance,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Tocopheryl Acetate,antioxidant,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,BHT,antioxidant,0.10,0.1,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Phenoxyethanol (PE9010),preservative,0.60,0.6,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Methylparaben,preservative,0.20,0.2,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Propylparaben,preservative,0.10,0.1,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Disodium EDTA,chelating agent,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Yellow 5 Lake,colorant,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Yellow 6 Lake,colorant,--,,,False
+CA3085974A1,18,Table 2 - Examples 2A through 2J,cream,Alprostadil,,F0167,Folic Acid,active ingredient,0.15,0.15,,False
+CA3085974A1,22,2E,cream,alprostadil,,F0168,No enhancer,control,N/A,,,False
+CA3085974A1,22,2C,cream,alprostadil,,F0169,Medium-Chain Triglycerides,permeation enhancer,1%,1.0,%,False
+CA3085974A1,22,2B,cream,alprostadil,,F0170,Caprylocaproyl Polyoxylglycerides,permeation enhancer,1%,1.0,%,False
+CA3085974A1,22,2D,cream,alprostadil,,F0171,Caprylocaproyl Polyoxylglycerides,permeation enhancer,5%,5.0,%,False
+CA3085974A1,22,2D,cream,alprostadil,,F0171,Diethylene Glycol Monoethyl Ether,permeation enhancer,5%,5.0,%,False
+CA3085974A1,24,Example 8,cream,Gefitinib,,F0172,,,,,,False
+CA3085974A1,24,Example 9,cream,Sorivudine & Lidocaine,Accelerate conditions: 40 ± 2°C and 75 ± 5% RH,F0173,,,,,,False
+CA3085974A1,34,Figure 5,Orally disintegrating film / transdermal patch,<UNKNOWN>,,F0174,Caprylocaproyl Polyoxylglicerides,permeation enhancer,5%,5.0,%,False
+CA3085974A1,34,Figure 5,Orally disintegrating film / transdermal patch,<UNKNOWN>,,F0174,Polyglyceryl Dioleate,permeation enhancer,5%,5.0,%,False
+CA3085974A1,34,Figure 5,Orally disintegrating film / transdermal patch,<UNKNOWN>,,F0174,Diethylene Glycol Monomethyl Ether,solvent,5%,5.0,%,False
+CA3085974A1,34,Figure 5,Orally disintegrating film / transdermal patch,<UNKNOWN>,,F0174,Medium-Chain Triglycerides,solvent,5%,5.0,%,False
+CA3085974A1,34,Figure 5,Orally disintegrating film / transdermal patch,<UNKNOWN>,,F0174,Propylene Glycol Monolaurate,permeation enhancer,5%,5.0,%,False
+CA3085974A1,34,Figure 5,Orally disintegrating film / transdermal patch,<UNKNOWN>,,F0174,Base [Polysorbate 80 and Sorbitain Oleate],adhesive / base,balance,,,False

@@ -1,0 +1,138 @@
+formulation_id,patent,page,example,metric,condition,value
+F0014,US9114073B2,9,Table 1 - Sample A,dissolution time,"buccal, 2.5 cm",4 min
+F0014,US9114073B2,9,Table 1 - Sample A,dissolution time,"sublingual, 5 cm",3.5 min
+F0015,US9114073B2,9,Table 1 - Sample B,dissolution time,"buccal, 2.5 cm",6 min
+F0015,US9114073B2,9,Table 1 - Sample B,dissolution time,"sublingual, 5 cm",4.5 min
+F0016,US9114073B2,9,Table 1 - Sample C,dissolution time,"buccal, 2.5 cm",9 min
+F0016,US9114073B2,9,Table 1 - Sample C,dissolution time,"sublingual, 5 cm",7 min
+F0017,US9114073B2,9,Table 1 - Sample D,dissolution time,"buccal, 2.5 cm",17 min
+F0017,US9114073B2,9,Table 1 - Sample D,dissolution time,"sublingual, 5 cm",14 min
+F0018,US9114073B2,9,Table 1 - Sample E,dissolution time,"buccal, 2.5 cm",26 min
+F0018,US9114073B2,9,Table 1 - Sample E,dissolution time,"sublingual, 5 cm",17 min
+F0019,US9114073B2,9,Example 7,release time,buccal,11 minutes 15 seconds
+F0019,US9114073B2,9,Example 7,release time,sublingual,9 minutes 53 seconds
+F0020,US9114073B2,9,Example 8,release time,buccal,8 minutes 44 seconds
+F0020,US9114073B2,9,Example 8,release time,sublingual,6 minutes 34 seconds
+F0035,US9114073B2,20,Example 29,AUC,pharmacokinetic study,180.96 ng/ml·h
+F0035,US9114073B2,20,Example 29,Cmax,geometric mean,45.22 ng/ml
+F0035,US9114073B2,20,Example 29,C-1 (first peak maximum concentration),maximum concentration of first peak,390.00 ng/ml
+F0035,US9114073B2,20,Example 29,C-2 (second peak maximum concentration),maximum concentration of second peak,43.52 ng/ml
+F0035,US9114073B2,20,Example 29,Tmax,mean,2 hour
+F0035,US9114073B2,20,Example 29,mouth residence time,"mean, sublingual administration",5.2±1.5 minutes
+F0035,US9114073B2,20,Example 29,taste score,10-point bitterness/sweetness scale,not specified for Example 29
+F0036,US9114073B2,20,Example 33,Cmax,geometric mean,30.81 ng/ml
+F0036,US9114073B2,20,Example 33,mouth residence time,"mean, sublingual administration",8.1±1.1 minutes
+F0037,US9114073B2,20,Example 32,Tmax,mean,1.77 hour
+F0037,US9114073B2,20,Example 32,C-1 (first peak maximum concentration),maximum concentration of first peak,24.95 ng/ml
+F0037,US9114073B2,20,Example 32,taste score,"10-point bitterness/sweetness scale, mean",6.7±1.7
+F0038,US9114073B2,20,Example 34,taste score,"10-point bitterness/sweetness scale, mean",4.9±1.9
+F0039,US9114073B2,20,NAL1606-205,C-2 (second peak maximum concentration),maximum concentration of second peak,28.95 ng/ml
+F0052,US9114073B2,21,Example 35 (NAL1606-211),film size/thickness,final product,2 cm × 5 cm / 100 μm
+F0052,US9114073B2,21,Example 35 (NAL1606-211),film weight,dry film,145.3 mg
+F0067,US9114075B2,9,Table 1 - Sample A,dissolution time,"buccal, 2.5 cm",4 min
+F0067,US9114075B2,9,Table 1 - Sample A,dissolution time,"sublingual, 5 cm",3.5 min
+F0068,US9114075B2,9,Table 1 - Sample B,dissolution time,"buccal, 2.5 cm",6 min
+F0068,US9114075B2,9,Table 1 - Sample B,dissolution time,"sublingual, 5 cm",4.5 min
+F0069,US9114075B2,9,Table 1 - Sample C,dissolution time,"buccal, 2.5 cm",9 min
+F0069,US9114075B2,9,Table 1 - Sample C,dissolution time,"sublingual, 5 cm",7 min
+F0070,US9114075B2,9,Table 1 - Sample D,dissolution time,"buccal, 2.5 cm",17 min
+F0070,US9114075B2,9,Table 1 - Sample D,dissolution time,"sublingual, 5 cm",14 min
+F0071,US9114075B2,9,Table 1 - Sample E,dissolution time,"buccal, 2.5 cm",26 min
+F0071,US9114075B2,9,Table 1 - Sample E,dissolution time,"sublingual, 5 cm",17 min
+F0072,US9114075B2,9,Example 7,release time,buccal,11 minutes 15 seconds
+F0072,US9114075B2,9,Example 7,release time,sublingual,9 minutes 53 seconds
+F0073,US9114075B2,9,Example 8,release time,buccal,8 minutes 44 seconds
+F0073,US9114075B2,9,Example 8,release time,sublingual,6 minutes 34 seconds
+F0078,US9114075B2,21,Example 37,Total ODF Weight,Dry film,40.00 mg
+F0078,US9114075B2,21,Example 37,Dose (Nicotine),Final,1.00 mg
+F0079,US9114075B2,21,Example 38,Total Weight,Dry film,50.00 mg
+F0079,US9114075B2,21,Example 38,Dose (Nicotine),Final,1.00 mg
+F0080,US9114075B2,22,Example 39,complete dissolution,In vivo,3 min 15 sec
+F0081,US9114075B2,22,Example 39,Rizatriptan Benzoate dissolution,"2 min, 50 rpm, 37°C, paddle over disk",40.50 to 50.9754
+F0081,US9114075B2,22,Example 39,Rizatriptan Benzoate cumulative release,"60 min, 50 rpm, 37°C, paddle over disk",119.0 to 122.4
+F0081,US9114075B2,22,Example 39,Diclofenac Sodium dissolution,"2 min, 50 rpm, 37°C, paddle over disk",55.3 to 86.9
+F0081,US9114075B2,22,Example 39,Diclofenac Sodium cumulative release,"60 min, 50 rpm, 37°C, paddle over disk",113.2 to 118.3
+F0083,US9114075B2,23,Example 41,Film Weight,dry film,50 mg
+F0083,US9114075B2,23,Example 41,Tensile strength,physical attributes,4
+F0083,US9114075B2,23,Example 41,Elongation,physical attributes,0
+F0083,US9114075B2,23,Example 41,Rigidity,physical attributes,4
+F0083,US9114075B2,23,Example 41,Tack,physical attributes,0
+F0083,US9114075B2,23,Example 41,Finger tack,physical attributes,2
+F0083,US9114075B2,23,Example 41,Easy to remove from pouch,physical attributes,4
+F0083,US9114075B2,23,Example 41,Stick to itself,physical attributes,0
+F0084,US9114075B2,23,Example 42,Film Weight,dry film,200 mg
+F0085,US9114075B2,24,Example 42,Overall Acceptability,Lotti 103-51,4
+F0085,US9114075B2,24,Example 42,Tear resistance,Lotti 103-51,2
+F0085,US9114075B2,24,Example 42,Flexibility,Lotti 103-51,3
+F0085,US9114075B2,24,Example 42,Tensile strength,Lotti 103-51,4
+F0085,US9114075B2,24,Example 42,Rigidity,Lotti 103-51,4
+F0086,US9114075B2,24,Example 43,Overall Acceptability,Lotti 103-54,3.5
+F0086,US9114075B2,24,Example 43,Tear resistance,Lotti 103-54,0
+F0086,US9114075B2,24,Example 43,Flexibility,Lotti 103-54,3
+F0091,US10682370B2,3,Embodiment 1,pH range,pharmaceutical composition,2.0 to 9.5 or 2.0 to 7.0
+F0092,US10682370B2,3,Embodiment 2,pH range,pharmaceutical composition,3.0 to 6.0
+F0093,US10682370B2,3,Embodiment 3,pH range,pharmaceutical composition,4.0 to 5.0
+F0108,US20140370077A1,5,Not explicitly labeled in this section,thickness,system design,"less than 60 μm, preferably less than 50 μm, more preferably less than 40 μm, or between 15-40 μm"
+F0108,US20140370077A1,5,Not explicitly labeled in this section,fentanyl concentration range (preferred),drug-containing matrix layer,5 to 20% by weight
+F0108,US20140370077A1,5,Not explicitly labeled in this section,fentanyl concentration range (more preferred),drug-containing matrix layer,7 to 16% by weight
+F0111,AU2017203009B2,13,,molecular weight,polyvinyl pyrrolidone,from about 1 x 10³ to about 1 x 10⁸ daltons
+F0111,AU2017203009B2,13,,molecular weight,polymeric alginate,from about 1 x 10³ to about 1 x 10⁷ daltons
+F0111,AU2017203009B2,13,,viscosity,polymeric alginate in 1% by weight aqueous solution,from about 400 cps to about 900 cps
+F0112,AU2017203009B2,13,,molecular weight,typical pullulan,"about 5,000 to about 5,000,000 daltons"
+F0112,AU2017203009B2,13,,molecular weight,preferred pullulan,"about 10,000 to about 800,000 daltons"
+F0119,US20210244651A1,11,Example 1,total composition,% w/w,100
+F0119,US20210244651A1,11,Example 1,kavalactones delivery,topical application on skin,at least a fraction of 1% to 80% or greater
+F0120,US20210244651A1,13,Formulation C,wrinkle score reduction,15 min after first application,1.63
+F0120,US20210244651A1,13,Formulation C,subjects with diminished wrinkles,"15 min after first application, investigator assessment",63.3%
+F0120,US20210244651A1,13,Formulation C,subjects with diminished wrinkles,"15 min after first application, self-assessment",50.0%
+F0120,US20210244651A1,13,Formulation C,wrinkle score reduction,12 weeks,1.90
+F0120,US20210244651A1,13,Formulation C,subjects with significant wrinkle reduction,12 weeks,around 90%
+F0120,US20210244651A1,13,Formulation C,water content increase,"2 weeks, water content baseline 62.20%",12.83% (to 75.03%)
+F0120,US20210244651A1,13,Formulation C,water content increase,"12 weeks, water content",18.49% (to 80.69%)
+F0120,US20210244651A1,13,Formulation C,elasticity increase,"2 weeks, elasticity baseline 63.77%",13.2% (to 76.97%)
+F0120,US20210244651A1,13,Formulation C,elasticity increase,"12 weeks, elasticity",18.78% (to 82.55%)
+F0120,US20210244651A1,13,Formulation C,subjects with ameliorated eye wrinkles,12 weeks,86.2%
+F0121,US20210244651A1,13,Formulation G,standard wrinkle grade reduction,"6 days, twice daily application",13.3% (from 3.0 to 2.6)
+F0122,US20170002057A1,13,Example 2; Table 5,Molecular weight,SST14-A (EAAAK) A-HSA-A (EAAAK) A-SST14 (SEQ ID NO: 1),73.8 kDa
+F0122,US20170002057A1,13,Example 2; Table 5,Production yield,SST14-A (EAAAK) A-HSA-A (EAAAK) A-SST14 (SEQ ID NO: 1),0.26 g/L
+F0122,US20170002057A1,13,Example 2; Table 5,Molecular weight,HSA-A (EAAAK) A-SST14 (SEQ ID NO: 2),70.2 kDa
+F0122,US20170002057A1,13,Example 2; Table 5,Production yield,HSA-A (EAAAK) A-SST14 (SEQ ID NO: 2),0.27 g/L
+F0122,US20170002057A1,13,Example 2; Table 5,Molecular weight,SST14-(GGGGS)-HSA (SEQ ID NO: 7),69.1 kDa
+F0122,US20170002057A1,13,Example 2; Table 5,Production yield,SST14-(GGGGS)-HSA (SEQ ID NO: 7),0.33 g/L
+F0122,US20170002057A1,13,Example 2; Table 5,Molecular weight,SST14-A (EAAAK) A-HSA (SEQ ID NO: 8),70.2 kDa
+F0122,US20170002057A1,13,Example 2; Table 5,Production yield,SST14-A (EAAAK) A-HSA (SEQ ID NO: 8),0.25 g/L
+F0122,US20170002057A1,13,Example 2; Table 5,Molecular weight,H6-GGGGS-HSA-GGGGS-SST14 (SEQ ID NO: 9),69.5 kDa
+F0122,US20170002057A1,13,Example 2; Table 5,Production yield,H6-GGGGS-HSA-GGGGS-SST14 (SEQ ID NO: 9),0.30 g/L
+F0123,US20170002057A1,15,Table 7 / Example 5,EC50 value for inhibition of cAMP production,in vitro cAMP assay,5.14 nM
+F0124,US20170002057A1,15,Table 7 / Example 5,EC50 value for inhibition of cAMP production,in vitro cAMP assay,17.6 nM
+F0125,US20170002057A1,15,Table 7 / Example 5,EC50 value for inhibition of cAMP production,in vitro cAMP assay,26.0 nM
+F0126,US20170002057A1,15,Table 7 / Example 5,EC50 value for inhibition of cAMP production,in vitro cAMP assay,23 nM
+F0127,US20170002057A1,15,Example 5-1 / Example 5-2,degradation half-life in rat plasma,"37°C, rat plasma, SEQ ID NO: 1",5.5 hours
+F0128,US20170002057A1,15,Example 5-2,standard curve range,serial dilution with diluent buffer,"5, 2.5, 1.25, 0.625, 0.313, 0.156, 0.078, 0.039 ng/mL"
+F0129,US20170002057A1,15,Example 5-2,standard curve range,serial dilution with diluent buffer,"225, 112.5, 56.2, 28.1, 14.1, 7.03, 3.51, 1.76 ng/mL"
+F0130,CA3085973A1,1,Not specified in abstract,skin delivery and absorption,topical application to skin or nail,1% to 80% or greater delivered to and absorbed by skin
+F0155,CA3085973A1,17,Example 1B (Table 3),cumulative amount penetrated,"Franz diffusion cell, mouse skin, 20 hours",343.46 µg/cm2
+F0156,CA3085973A1,17,Example 1D (Table 3),cumulative amount penetrated,"Franz diffusion cell, mouse skin, 20 hours",1541.45 µg/cm2
+F0157,CA3085973A1,17,Example 1F (Table 3),cumulative amount penetrated,"Franz diffusion cell, mouse skin, 20 hours",775.86 µg/cm2
+F0158,CA3085973A1,17,Example 1G (Table 3),cumulative amount penetrated,"Franz diffusion cell, mouse skin, 20 hours",449.13 µg/cm2
+F0159,CA3085973A1,17,Example 1I (Table 3),cumulative amount penetrated,"Franz diffusion cell, mouse skin, 20 hours",2904.86 µg/cm2
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Claimed Formulation (with enhancer) at 2 hours,~2.0
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Claimed Formulation (with enhancer) at 4 hours,~8.0
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Claimed Formulation (with enhancer) at 6 hours,~10.0
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Claimed Formulation (with enhancer) at 8 hours,~11.5
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Commercial Product at 2 hours,~2.0
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Commercial Product at 4 hours,~3.0
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Commercial Product at 6 hours,~3.5
+F0160,CA3085974A1,1,Figure 1 - Claimed Formulation (with enhancer) and Commercial Product,Cumulative amount of glucosamine released,Commercial Product at 8 hours,~4.0
+F0161,CA3085974A1,2,Not explicitly labeled,Cumulative drug released (%),0-10 hours,Formulation with enhancer: ~12% at 10 hrs; Commercial product: ~4% at 10 hrs
+F0168,CA3085974A1,22,2E,cumulative amount penetrated,"18 hours, mouse skin, Franz diffusion cell",271.05 µg
+F0169,CA3085974A1,22,2C,cumulative amount penetrated,"18 hours, mouse skin, Franz diffusion cell",550.55 µg
+F0170,CA3085974A1,22,2B,cumulative amount penetrated,"18 hours, mouse skin, Franz diffusion cell",588.60 µg
+F0171,CA3085974A1,22,2D,cumulative amount penetrated,"18 hours, mouse skin, Franz diffusion cell",601.87 µg
+F0172,CA3085974A1,24,Example 8,Amount of gefitinib absorbed into mouse skin,"6 hours, mouse skin, Franz diffusion cell","0.034 mg (Formulation 2H), 0.022 mg (Formulation 2I)"
+F0172,CA3085974A1,24,Example 8,Enhancement of absorption by penetration enhancers,"6 hours, mouse skin",54% increase
+F0173,CA3085974A1,24,Example 9,Stability (Formulations 4A and 4B),"2 months, 40 ± 2°C, 75 ± 5% RH",Stable
+F0173,CA3085974A1,24,Example 9,Sorivudine and lidocaine stability with/without BHT antioxidant,"2 months, 40°C / 75% RH, 2% lidocaine content",Stable
+F0173,CA3085974A1,24,Example 9,Sorivudine content reduction,"2 months, 40°C / 75% RH, 4% lidocaine, pH adjusted with 1% NaOH",Significantly reduced
+F0173,CA3085974A1,24,Example 9,Lidocaine content stability,"2 months, 40°C / 75% RH, pH adjusted with 1% NaOH",Stable
+F0174,CA3085974A1,34,Figure 5,Cumulative amount absorbed,"20 hours, skin permeation study",~500-900 μg/cm² depending on formulation

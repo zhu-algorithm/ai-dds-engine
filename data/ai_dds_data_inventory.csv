@@ -1,0 +1,12 @@
+数据集,来源,状态,规模,服务模块,文件
+NAL 专利处方语料,NAL 16 件专利族 (9 件含可抽取实施例),已建成,175 条处方 / 785 组分行,AI-Formulation 预训练·辅料知识图谱,nal_patent_formulation_corpus.csv
+NAL 专利性能语料,同上 9 件 (溶解时间·释放·PK·力学),已建成,137 条,AI-Release 预训练,nal_patent_performance_corpus.csv
+Bio-FX ODF 实证数据集,US9114073B2 表1 + 实施例 7/8,已建成,14 条 (6 处方 × 2 部位),AI-Release 首个产品模型 (已训练),biofx_odf_dataset.csv
+RLD 监管数据,openFDA label + drugsfda,已建成,18/20 产品 (定性组成·PK·规格),AI-PK/PD 先验·辅料白名单,openfda_rld.json
+内部历史处方与配比,Galaxy/NAL 研发记录 (20 产品),待接入,预计 10²–10³ 批,三模块主训练集,—
+工艺参数与放大记录,批记录·中试·3 批 GMP,待接入,每产品 ≥3 批,AI-Manufacturing,—
+体外释放/溶出原始曲线,释放仪多时间点原始数据,待接入,每批 ≥6 时间点,AI-Release 主训练集,—
+稳定性数据,加速/长期·杂质·含量,待接入,每产品 ≥3 时间点×3 条件,AI-Release (降解动力学),—
+PK/BE 数据,体内 BE·Pilot 临床,待接入,已完成在研品种,AI-PK/PD + IVIVC 标定,—
+失败实验数据,未达标批次 + 失败原因编码,待接入 (最高价值),预计占历史批次 50–70%,全模块 — 决定可行域边界,—
+Franz 池渗透数据,离体皮肤/黏膜通量,待接入,Bio-D3 / Bio-FX,AI-Permeation (二期),—
